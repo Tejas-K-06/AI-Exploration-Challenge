@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "context": "A man is sitting on a roof. he",
+        "options": [
+            "is using wrap to wrap a pair of skis.",
+            "is ripping level tiles off.",
+            "is holding a rubik's cube.",
+            "starts pulling up roofing on a roof."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "starts pulling up roofing on a roof.",
+        "prediction_index": 0,
+        "prediction_text": "is using wrap to wrap a pair of skis.",
+        "is_correct": false,
+        "latency_seconds": 2.61,
+        "tokens_per_second": 14.79,
+        "full_model_response": "0"
+    },
+    {
+        "id": 2,
+        "context": "A lady walks to a barbell. She bends down and grabs the pole. the lady",
+        "options": [
+            "swings and lands in her arms.",
+            "pulls the barbell forward.",
+            "pulls a rope attached to the barbell.",
+            "stands and lifts the weight over her head."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "stands and lifts the weight over her head.",
+        "prediction_index": null,
+        "prediction_text": "INVALID",
+        "is_correct": false,
+        "latency_seconds": 1.74,
+        "tokens_per_second": 15.09,
+        "full_model_response": "4"
+    },
+    {
+        "id": 3,
+        "context": "Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, with other individuals visible in the background. the child and a different man",
+        "options": [
+            "are then shown paddling down a river in a boat while a woman talks.",
+            "are driving the canoe, they go down the river flowing side to side.",
+            "sit in a canoe while the man paddles.",
+            "walking go down the rapids, while the man in his helicopter almost falls and goes out of canoehood."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "sit in a canoe while the man paddles.",
+        "prediction_index": 1,
+        "prediction_text": "are driving the canoe, they go down the river flowing side to side.",
+        "is_correct": false,
+        "latency_seconds": 1.98,
+        "tokens_per_second": 15.42,
+        "full_model_response": "1"
+    },
+    {
+        "id": 4,
+        "context": "A boy is running down a track. the boy",
+        "options": [
+            "runs into a car.",
+            "gets in a mat.",
+            "lifts his body above the height of a pole.",
+            "stands on his hands and springs."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "lifts his body above the height of a pole.",
+        "prediction_index": 0,
+        "prediction_text": "runs into a car.",
+        "is_correct": false,
+        "latency_seconds": 1.45,
+        "tokens_per_second": 15.94,
+        "full_model_response": "0"
+    },
+    {
+        "id": 5,
+        "context": "The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the boy",
+        "options": [
+            "turns his body around on the mat.",
+            "gets up from the mat.",
+            "continues to lift his body over the pole.",
+            "wiggles out of the mat."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "gets up from the mat.",
+        "prediction_index": 0,
+        "prediction_text": "turns his body around on the mat.",
+        "is_correct": false,
+        "latency_seconds": 1.69,
+        "tokens_per_second": 15.39,
+        "full_model_response": "0"
+    },
+    {
+        "id": 6,
+        "context": "The boy lands on his back on to a red mat. The boy gets up from the mat. the boy",
+        "options": [
+            "starts doing spins.",
+            "celebrates by clapping and flexing both arms.",
+            "is dancing on the mat.",
+            "does jump jacks on his stick."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "celebrates by clapping and flexing both arms.",
+        "prediction_index": 0,
+        "prediction_text": "starts doing spins.",
+        "is_correct": false,
+        "latency_seconds": 1.49,
+        "tokens_per_second": 15.52,
+        "full_model_response": "0"
+    },
+    {
+        "id": 7,
+        "context": "A man is standing in front of a camera. He starts playing a harmonica for the camera. he",
+        "options": [
+            "begins to play the harmonica with his body while looking at the camera.",
+            "seems to be singing while playing the harmonica.",
+            "rocks back and forth to the music as he goes.",
+            "painted a fence in front of the camera."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "rocks back and forth to the music as he goes.",
+        "prediction_index": 1,
+        "prediction_text": "seems to be singing while playing the harmonica.",
+        "is_correct": false,
+        "latency_seconds": 1.69,
+        "tokens_per_second": 15.7,
+        "full_model_response": "1"
+    },
+    {
+        "id": 8,
+        "context": "A cartoon animation video is shown with people wandering around and rockets being shot. two men",
+        "options": [
+            "fight robots of evil and ends with a to be continued.",
+            "are then shown in closeups shooting a shot put.",
+            "push a child in a speedboat in the water.",
+            "look in the cameraman's eye and smile."
+        ],
+        "ground_truth_index": 0,
+        "ground_truth_text": "fight robots of evil and ends with a to be continued.",
+        "prediction_index": 1,
+        "prediction_text": "are then shown in closeups shooting a shot put.",
+        "is_correct": false,
+        "latency_seconds": 1.68,
+        "tokens_per_second": 15.57,
+        "full_model_response": "1"
+    },
+    {
+        "id": 9,
+        "context": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he",
+        "options": [
+            "opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.",
+            "takes a small stone from the flowing river and smashes it on another stone.",
+            "uses the knife to shave his leg.",
+            "sand the rocks and tops them by using strong pressure."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "takes a small stone from the flowing river and smashes it on another stone.",
+        "prediction_index": 1,
+        "prediction_text": "takes a small stone from the flowing river and smashes it on another stone.",
+        "is_correct": true,
+        "latency_seconds": 1.93,
+        "tokens_per_second": 15.74,
+        "full_model_response": "1"
+    },
+    {
+        "id": 10,
+        "context": "Then he takes a small stone from the flowing river and smashes it on another stone. He starts to crush the small stone to smaller pieces. he",
+        "options": [
+            "cuts the center stone in half and blow it on to make it bigger.",
+            "grind it hard to make the pieces smaller.",
+            "eventually brings it back into view and adds it to the smaller ones to make a small triangular shaped piece.",
+            "starts to party with them and throw the pieces by hand while they celebrate."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "grind it hard to make the pieces smaller.",
+        "prediction_index": 1,
+        "prediction_text": "grind it hard to make the pieces smaller.",
+        "is_correct": true,
+        "latency_seconds": 1.93,
+        "tokens_per_second": 15.83,
+        "full_model_response": "1"
+    },
+    {
+        "id": 11,
+        "context": "Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick to the wet piece of wood. he",
+        "options": [
+            "uses a small brush to polish one of the stone pieces.",
+            "then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.",
+            "walks towards the camera.",
+            "then takes the knife and sharpens it against the wood piece."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "then takes the knife and sharpens it against the wood piece.",
+        "prediction_index": 1,
+        "prediction_text": "then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.",
+        "is_correct": false,
+        "latency_seconds": 1.92,
+        "tokens_per_second": 15.74,
+        "full_model_response": "1"
+    },
+    {
+        "id": 12,
+        "context": "The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against the wood piece. he",
+        "options": [
+            "then cuts off the excess hair of the wood.",
+            "scrapes the wood with a broom in the cutting tool used in sharpening the instrument.",
+            "writes on the board again.",
+            "then notices a little black and green poisonous frog sitting next to him."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "then notices a little black and green poisonous frog sitting next to him.",
+        "prediction_index": 1,
+        "prediction_text": "scrapes the wood with a broom in the cutting tool used in sharpening the instrument.",
+        "is_correct": false,
+        "latency_seconds": 1.69,
+        "tokens_per_second": 15.91,
+        "full_model_response": "1"
+    },
+    {
+        "id": 13,
+        "context": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and green poisonous frog sitting next to him. the frog",
+        "options": [
+            "eventually gets to get up and marches out of the room waving its body about.",
+            "then starts to get up from the chair and begins walking towards the camera.",
+            "then escapes and jumps away.",
+            "is acting crazy and attacking him while he is cooking."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "then escapes and jumps away.",
+        "prediction_index": 1,
+        "prediction_text": "then starts to get up from the chair and begins walking towards the camera.",
+        "is_correct": false,
+        "latency_seconds": 1.93,
+        "tokens_per_second": 15.79,
+        "full_model_response": "1"
+    },
+    {
+        "id": 14,
+        "context": "He then notices a little black and green poisonous frog sitting next to him. The frog then escapes and jumps away. he",
+        "options": [
+            "sits and hugs another man and also adjusts his camera.",
+            "then sits there staring at his text machine as if he has actually been given a gift from god.",
+            "explains how the frog secretes a poisonous fluid that can be extremely harmful.",
+            "takes the frog on his hand and tickles the back of it."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "explains how the frog secretes a poisonous fluid that can be extremely harmful.",
+        "prediction_index": 1,
+        "prediction_text": "then sits there staring at his text machine as if he has actually been given a gift from god.",
+        "is_correct": false,
+        "latency_seconds": 1.93,
+        "tokens_per_second": 15.7,
+        "full_model_response": "1"
+    },
+    {
+        "id": 15,
+        "context": "A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera",
+        "options": [
+            "shoots areas all around the park while the bagpipes play.",
+            "is covered to the boy that is playing there.",
+            "then goes black and we see a black opening scene.",
+            "watching the boy and boy as they play a game of drums."
+        ],
+        "ground_truth_index": 0,
+        "ground_truth_text": "shoots areas all around the park while the bagpipes play.",
+        "prediction_index": 1,
+        "prediction_text": "is covered to the boy that is playing there.",
+        "is_correct": false,
+        "latency_seconds": 1.72,
+        "tokens_per_second": 15.43,
+        "full_model_response": "1"
+    },
+    {
+        "id": 16,
+        "context": "Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the camera. the man",
+        "options": [
+            "dips the ball and walks back with the boy and pours detergent into a cup again.",
+            "then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.",
+            "then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera.",
+            "demonstrates how to properly throw the ball with his hands while still speaking to the camera."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "demonstrates how to properly throw the ball with his hands while still speaking to the camera.",
+        "prediction_index": 1,
+        "prediction_text": "then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.",
+        "is_correct": false,
+        "latency_seconds": 1.99,
+        "tokens_per_second": 15.3,
+        "full_model_response": "1"
+    },
+    {
+        "id": 17,
+        "context": "A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobody as she eats. she",
+        "options": [
+            "is then seen sitting alone as she eats a cold brown ice cream.",
+            "pauses in the process of eating to enjoy her food.",
+            "stands up and grabs her purse, continuing to talk and laugh as she leaves.",
+            "picks up another chocolate bar and chews it as she talks."
+        ],
+        "ground_truth_index": 2,
+        "ground_truth_text": "stands up and grabs her purse, continuing to talk and laugh as she leaves.",
+        "prediction_index": 1,
+        "prediction_text": "pauses in the process of eating to enjoy her food.",
+        "is_correct": false,
+        "latency_seconds": 1.94,
+        "tokens_per_second": 15.65,
+        "full_model_response": "1"
+    },
+    {
+        "id": 18,
+        "context": "A group of cheerleaders run onto a stage before a cheering audience. they",
+        "options": [
+            "get into formation, then begin dancing and flipping as male cheerleaders join them.",
+            "perform a cheer routine before the girls, along with makeup artists, spread out and pose.",
+            "take turns jumping on each other like they are performing karate.",
+            "are then shown performing the type of cheerleading dance, using batons and pole vaults."
+        ],
+        "ground_truth_index": 0,
+        "ground_truth_text": "get into formation, then begin dancing and flipping as male cheerleaders join them.",
+        "prediction_index": 1,
+        "prediction_text": "perform a cheer routine before the girls, along with makeup artists, spread out and pose.",
+        "is_correct": false,
+        "latency_seconds": 1.94,
+        "tokens_per_second": 15.55,
+        "full_model_response": "1"
+    },
+    {
+        "id": 19,
+        "context": "A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then begin dancing and flipping as male cheerleaders join them. they all",
+        "options": [
+            "dance and flip on stage while hanging their hats on the sides.",
+            "continue dancing and flipping, doing hand springs.",
+            "dance together with flip up their sleeves.",
+            "perform their routines as the studio rashes to a halt with cheerleaders in the audience."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "continue dancing and flipping, doing hand springs.",
+        "prediction_index": 1,
+        "prediction_text": "continue dancing and flipping, doing hand springs.",
+        "is_correct": true,
+        "latency_seconds": 1.71,
+        "tokens_per_second": 15.73,
+        "full_model_response": "1"
+    },
+    {
+        "id": 20,
+        "context": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they",
+        "options": [
+            "are done, they shake hands and walk away, but cheers are heard all around as they're finished.",
+            "are finished, they jump up and down happily and walk off the stage, exhausted.",
+            "are done, a male cheerleader is crowned and an instant replay is shown.",
+            "come down from their workout, they all stop to bow and applaud, then they continue dancing."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "are finished, they jump up and down happily and walk off the stage, exhausted.",
+        "prediction_index": 1,
+        "prediction_text": "are finished, they jump up and down happily and walk off the stage, exhausted.",
+        "is_correct": true,
+        "latency_seconds": 2.19,
+        "tokens_per_second": 15.51,
+        "full_model_response": "1"
+    },
+    {
+        "id": 21,
+        "context": "A woman is reading a newspaper nearby while he speaks to her and shows her something in his hand. The man sharpens his knives using an electric tool. he",
+        "options": [
+            "sharpens and cuts something on a knife board using an electric tool.",
+            "then continues cutting his onion.",
+            "travels with his knife under the table and uses it also in his shoe.",
+            "then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table."
+        ],
+        "ground_truth_index": 1,
+        "ground_truth_text": "then continues cutting his onion.",
+        "prediction_index": 1,
+        "prediction_text": "then continues cutting his onion.",
+        "is_correct": true,
+        "latency_seconds": 1.94,
+        "tokens_per_second": 15.79,
+        "full_model_response": "1"
+    },
+    {
+        "id": 22,
+        "context": "A man is outside of a building. He is using commercial lawn mowing equipment. he",
+        "options": [
+            "walks back and forth as he mows the grass.",
+            "is animated as he does the task.",
+            "relaxes, making sure his lawn is pristine.",
+            "runs from one side of the building to the other."
+        ],
+        "ground_truth_index": 0,
+        "ground_truth_text": "walks back and forth as he mows the grass.",
+        "prediction_index": 1,
+        "prediction_text": "is animated as he does the task.",
+        "is_correct": false,
+        "latency_seconds": 1.69,
+        "tokens_per_second": 15.5,
+        "full_model_response": "1"
+    },
+    {
+        "id": 23,
+        "context": "Children bring desert out for their family member. the family",
+        "options": [
+            "floats in a river.",
+            "member stands looking into a hut and then handing people photographs.",
+            "member cuts a piece of sunscreen.",
+            "enjoys eating the desert together."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "enjoys eating the desert together.",
+        "prediction_index": 1,
+        "prediction_text": "member stands looking into a hut and then handing people photographs.",
+        "is_correct": false,
+        "latency_seconds": 1.47,
+        "tokens_per_second": 15.71,
+        "full_model_response": "1"
+    },
+    {
+        "id": 24,
+        "context": "The family enjoys eating the desert together. The people in the restaurant laugh at the man and he wonders what they are doing. the man",
+        "options": [
+            "goes to the bathroom and isn't able to get very far.",
+            "puts the glass aside and a fourth person walks in and walks away.",
+            "plays the bagpipe and smiles and laughs as he enjoys the hospitality.",
+            "gets up and walks away to the other room."
+        ],
+        "ground_truth_index": 3,
+        "ground_truth_text": "gets up and walks away to the other room.",
+        "prediction_index": 1,
+        "prediction_text": "puts the glass aside and a fourth person walks in and walks away.",
+        "is_correct": false,
+        "latency_seconds": 1.94,
+        "tokens_per_second": 15.34,
+        "full_model_response": "1"
+    },
+    {
+        "id": 25,
+        "context": "A black female is shown in a room with a black scarf around her head. black spots on her faced",
+        "options": [
+            "are then zoomed in on and she begins to apply something on it.",
+            "are shown and she misses a little bit of her swing.",
+            "are shown and one finger is seen poking through.",
+            "are shown as she continues to dance around on the hardwood and every move makes a lash on her face."
+        ],
+        "ground_truth_index": 0,
+        "ground_truth_text": "are then zoomed in on and she begins to apply something on it.",
+        "prediction_index": 1,
+        "prediction_text": "are shown and she misses a little bit of her swing.",
+        "is_correct": false,
+        "latency_seconds": 1.92,
+        "tokens_per_second": 15.72,
+        "full_model_response": "1"
+    }
+]

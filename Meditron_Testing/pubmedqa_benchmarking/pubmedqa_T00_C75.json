@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The paper shows that mitochondria are involved in PCD, and that CsA treatment prevents the formation of perforations.\nAnswer: yes"
+    },
+    {
+        "id": 2,
+        "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that the Snellen E and Landolt C acuity were similar in all groups, except for strabismus amblyopia where the Snellen E was higher than the Landolt C acuity.\nAnswer: yes"
+    },
+    {
+        "id": 3,
+        "question": "Syncope during bathing in infants, a pediatric form of water-induced urticaria?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The infants had similar symptoms and the diagnosis was confirmed by blood histamine levels.\nAnswer: yes"
+    },
+    {
+        "id": 4,
+        "question": "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The TERPT group had a significantly better continence score, and the ABD group had a significantly better stool pattern score.\nAnswer: yes"
+    },
+    {
+        "id": 5,
+        "question": "Can tailored interventions increase mammography use among HMO women?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that telephone counseling was more effective than tailored print materials at promoting being on schedule with screening during 1996 and 1997 among women who were off-schedule during the previous year.\nAnswer: yes"
+    },
+    {
+        "id": 6,
+        "question": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that DBE is efficacious and safe in a community setting.\nAnswer: yes"
+    },
+    {
+        "id": 7,
+        "question": "30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant difference in mortality between the two age groups.\nAnswer: yes"
+    },
+    {
+        "id": 8,
+        "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The CHOPIT model provided two changes with a subtle difference in the magnitude of regression coefficients after correction for reporting heterogeneity.\nAnswer: yes"
+    },
+    {
+        "id": 9,
+        "question": "Do mutations causing low HDL-C promote increased carotid intima-media thickness?",
+        "truth": "no",
+        "prediction": "no",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that low HDL-C does not promote increased cIMT.\nAnswer: no"
+    },
+    {
+        "id": 10,
+        "question": "A short stay or 23-hour ward in a general and academic children's hospital: are they effective?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The short stay ward was developed through reallocation of resources from within the hospital to the short stay ward. This resulted in estimated savings of $1/2 million (Westmead Hospital) to $2.3 million (New Children's Hospital) to the hospital, due to more efficient bed usage.\nAnswer: yes"
+    },
+    {
+        "id": 11,
+        "question": "Did Chile's traffic law reform push police enforcement?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The police traffic enforcement increment was statistically significant and the enactment of the traffic law reform in interaction with number of traffic tickets per police officer was significantly associated with a decrease of 8% in traffic fatalities and 7% in severe injuries.\nAnswer: yes"
+    },
+    {
+        "id": 12,
+        "question": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that therapeutic anticoagulation is safe in trauma patients, and that the most common complication was a sudden drop in hemoglobin concentration requiring blood transfusion.\nAnswer: yes"
+    },
+    {
+        "id": 13,
+        "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The MCV was elevated in all ASH patients and normal in all NASH patients.\nAnswer: yes"
+    },
+    {
+        "id": 14,
+        "question": "Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant increase in PCP response to the prompts, but no change in problem summary list documentation of risk status or screening interventions for any of the 6 diseases.\nAnswer: yes"
+    },
+    {
+        "id": 15,
+        "question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The residents in programs with EUS fellowships performed more scans and had a broader scope of bedside US applications than those without fellowships.\nAnswer: yes"
+    },
+    {
+        "id": 16,
+        "question": "Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed a significant reduction in breathlessness and no adverse events.\nAnswer: yes"
+    },
+    {
+        "id": 17,
+        "question": "Is there still a need for living-related liver transplantation in children?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that SLT and LRT had similar outcomes in terms of survival, graft function, and complications.\nAnswer: yes"
+    },
+    {
+        "id": 18,
+        "question": "Do patterns of knowledge and attitudes exist among unvaccinated seniors?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The survey identified patterns of knowledge and attitudes among unvaccinated seniors.\nAnswer: yes"
+    },
+    {
+        "id": 19,
+        "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant difference in operative time, blood loss, and peritoneal opening between the first eight cases and the last seven cases.\nAnswer: yes"
+    },
+    {
+        "id": 20,
+        "question": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant association between elevated RHR and casual high BP.\nAnswer: yes"
+    },
+    {
+        "id": 21,
+        "question": "Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study shows that the current readiness guidelines are not sufficient to meet the needs of HMCIs.\nAnswer: yes"
+    },
+    {
+        "id": 22,
+        "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that the mortality rate was significantly higher in patients with sepsis syndrome and a high PEEP, low PaO2/FIO2 ratio, or low P(A-a)O2.\nAnswer: yes"
+    },
+    {
+        "id": 23,
+        "question": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that the families with a high-risk infant in the NICU were at risk for SHSe and had low household smoking bans.\nAnswer: yes"
+    },
+    {
+        "id": 24,
+        "question": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The nomograms were able to predict PCSM more accurately than BCR, and the c-index values for each nomogram were higher for PCSM than for BCR.\nAnswer: yes"
+    },
+    {
+        "id": 25,
+        "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant association between chronic oro-facial pain and self-reported mechanical factors.\nAnswer: yes"
+    },
+    {
+        "id": 26,
+        "question": "Amblyopia: is visual loss permanent?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that visual loss in amblyopia is permanent.\nAnswer: yes"
+    },
+    {
+        "id": 27,
+        "question": "Implementation of epidural analgesia for labor: is the standard of effective analgesia reachable in all women?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that epidural analgesia was effective and safe for labor pain relief.\nAnswer: yes"
+    },
+    {
+        "id": 28,
+        "question": "Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that HER2 immunoreactivity was a significant prognostic factor for PFS and disease-specific OS in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy.\nAnswer: yes"
+    },
+    {
+        "id": 29,
+        "question": "Is halofantrine ototoxic?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that halofantrine is ototoxic in guinea pigs.\nAnswer: yes"
+    },
+    {
+        "id": 30,
+        "question": "Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that VAT area at a single level can represent VAT volume and body weight changes.\nAnswer: yes"
+    },
+    {
+        "id": 31,
+        "question": "Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?",
+        "truth": "no",
+        "prediction": "maybe",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that HBO therapy was associated with a higher mortality rate and more surgical interventions, but the difference between the groups did not reach statistical significance.\nAnswer: maybe"
+    },
+    {
+        "id": 32,
+        "question": "Is the Hawkins sign able to predict necrosis in fractures of the neck of the astragalus?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The Hawkins sign is a reliable indicator of avascular necrosis in fractures of the neck of the astragalus.\nAnswer: yes"
+    },
+    {
+        "id": 33,
+        "question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed no difference in scores between groups on any parameter.\nAnswer: yes"
+    },
+    {
+        "id": 34,
+        "question": "Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated a statistically significant improvement in vocal function and quality of life, as well as structural improvements (reduction in size of the lesions).\nAnswer: yes"
+    },
+    {
+        "id": 35,
+        "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The cases that received aneurysm repair showed significantly better clinical outcome than the controls, while WFNS grade on admission and premorbid modified Rankin Scale showed no difference between them.\nAnswer: yes"
+    },
+    {
+        "id": 36,
+        "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The evaluation demonstrated that the use of the IT innovation was associated with the presence of diabetes-educated staff in the practice, and this is consistent with previous research on the importance of training in successful implementation of IT innovations.\nAnswer: yes"
+    },
+    {
+        "id": 37,
+        "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that w-d HCCs had lower incidences of fibrous capsule formation, when compared to l-d HCCs. There were no significant differences in the incidence of intrahepatic metastasis or portal vein invasion. In a resected specimen of w-d HCC, barium sulfate and gelatin were injected into portal vein and a transparent specimen was made. The transparent specimen showed that the portal vein in the tumor seemed to be intact. Microscopically, cancer cell infiltration into the fibrous frame of the portal tract was present. There were no significant differences in the disease free survival between the two groups. An analysis of tumor volume doubling time in recurrent foci suggested that minute cancerous foci had been present at the time of operation.\nAnswer: yes"
+    },
+    {
+        "id": 38,
+        "question": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that the use of multiple patient reminders significantly improved adherence to follow-up recommendations.\nAnswer: yes"
+    },
+    {
+        "id": 39,
+        "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that the method is accurate and can be used to detect pollen in air samples.\nAnswer: yes"
+    },
+    {
+        "id": 40,
+        "question": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that the diagnostic power of FDG-PET was not influenced by DM in patients with cervical cancer.\nAnswer: yes"
+    },
+    {
+        "id": 41,
+        "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery were different between advanced surface ablation (ASA) and sub-Bowman's keratomileusis (SBK).\nAnswer: yes"
+    },
+    {
+        "id": 42,
+        "question": "Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?",
+        "truth": "yes",
+        "prediction": "no",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that radiotherapy of the primary rectal cancer was associated with worse outcomes after pelvic exenteration for recurrent rectal cancer.\nAnswer: no"
+    },
+    {
+        "id": 43,
+        "question": "Can a practicing surgeon detect early lymphedema reliably?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study demonstrated that a practicing surgeon can detect lymphedema with high sensitivity and specificity using simple circumference measurements.\nAnswer: yes"
+    },
+    {
+        "id": 44,
+        "question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that global management at the same centre improved results in terms of disease-free survival and overall survival.\nAnswer: yes"
+    },
+    {
+        "id": 45,
+        "question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?",
+        "truth": "yes",
+        "prediction": "no",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The results suggest that motion perception deficit in schizophrenia is not a consequence of eye-tracking abnormality.\nAnswer: no"
+    },
+    {
+        "id": 46,
+        "question": "Transgastric endoscopic splenectomy: is it possible?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The procedure was performed successfully in all six pigs without complications.\nAnswer: yes"
+    },
+    {
+        "id": 47,
+        "question": "It's Fournier's gangrene still dangerous?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The mortality rate was 36% in our study, which is higher than the reported rates of 1-2%. This may be due to the fact that we had a high number of patients with diabetes mellitus (57%) and hypertension (43%).\nAnswer: yes"
+    },
+    {
+        "id": 48,
+        "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study shows that the survival of patients and grafts is similar in both groups, with a slight increase in creatinine levels in the group receiving kidneys from elderly donors.\nAnswer: yes"
+    },
+    {
+        "id": 49,
+        "question": "Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The Demonstration resulted in lower increases in PMPM expenditures over time compared with the non-Demonstration counties, with Demonstration PSNs lowering PMPM expenditures by $7 more than HMOs.\nAnswer: yes"
+    },
+    {
+        "id": 50,
+        "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The prevalence of carotid stenosis was higher in the high-risk group than the low-risk group.\nAnswer: yes"
+    }
+]

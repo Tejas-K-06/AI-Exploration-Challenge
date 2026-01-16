@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "question": "Polio can be eradicated by which of the following?",
+        "truth": "E",
+        "pred": "G",
+        "correct": false,
+        "full_response": "Reasoning: The patient has polio. Polio is an infectious disease caused by a virus that primarily affects the nervous system, resulting in paralysis and death. Eradication of polio requires an integrated effort of multiple approaches such as vaccination (D), improved sanitation and hygiene (E), and antiviral drugs (G).\nAnswer: G"
+    },
+    {
+        "id": 2,
+        "question": "Which disease do polyomaviruses predominantly cause?",
+        "truth": "C",
+        "pred": "D",
+        "correct": false,
+        "full_response": "Reasoning: Polyomaviruses are a family of DNA viruses that cause several diseases, including kidney infections (D), brain pathology (B), and tumours. They rarely cause no disease at all (C).\nAnswer: D"
+    },
+    {
+        "id": 3,
+        "question": "Who discovered the first virus?",
+        "truth": "I",
+        "pred": "A",
+        "correct": false,
+        "full_response": "Reasoning: Viruses are submicroscopic, infectious agents that replicate inside living cells. They can cause disease in humans and other animals. The first viral disease of man was discovered by the Dutch microbiologist Antonie van Leeuwenhoek who observed red blood cell inclusions in his own blood samples. He is credited with the discovery of the first virus, or at least the earliest one, when he described a contagious condition among sailors (probably scurvy) onboard his ship that was transmitted by fomites and caused localized skin lesions.\nAnswer: A"
+    },
+    {
+        "id": 4,
+        "question": "Poliovirus can most easily become more virulent by which of the following processes?",
+        "truth": "F",
+        "pred": "C",
+        "correct": false,
+        "full_response": "Reasoning: The poliovirus replicates in human intestinal cells. Polio is spread by the fecal-oral route, and thus, virulence can be increased by altering its mode of transmission (A). Recombination with other enteroviruses increases pathogenicity (C), and multiple nucleotide deletions and substitutions in the genome increase virulence. Antiviral resistance is a mechanism for resistant mutations to emerge, but poliovirus does not have antiviral resistance yet.\nAnswer: C"
+    },
+    {
+        "id": 5,
+        "question": "How do viruses of the calcivirus family replicate?",
+        "truth": "D",
+        "pred": "C",
+        "correct": false,
+        "full_response": "Reasoning: Calciviruses are single-stranded RNA viruses. They replicate via transcription, not by integrating their DNA into the host cell's genome or through binary fission (F). Retroviruses are single-stranded RNA viruses that integrate their DNA into the host cell's genome and replicate as positive strand RNA viruses.\nAnswer: C"
+    },
+    {
+        "id": 6,
+        "question": "Viruses have encouraged us to change our world, as we have now:",
+        "truth": "E",
+        "pred": "B",
+        "correct": false,
+        "full_response": "Reasoning: Viruses have encouraged us to change our world, as we have now:\n(A) Developed a universal vaccine for all types of flu\n(B) Eradicated polio\n(C) Created a vaccine for the common cold\n(D) Found a cure for all types of cancer\n(E) Eradicated smallpox\n(F) Completely stopped the spread of all infectious diseases\n(G) Developed immunity to all types of viruses\n(H) Eradicated HIV/AIDS.\nAnswer: B"
+    },
+    {
+        "id": 7,
+        "question": "Which of the following releases most energy when completely oxidised in the body?",
+        "truth": "D",
+        "pred": "B",
+        "correct": false,
+        "full_response": "Reasoning: The answer is based on the amount of energy released per gram. Lactose (B) releases 12 kcal/g, whereas glucose (F) and fructose (C) release 4 kcal/g. Palmitic acid (D), alcohol (G), glycerol (A), leucine (H), and cellulose (E) all have lower energy content than lactose or glucose, so they are incorrect answers.\nAnswer: B"
+    },
+    {
+        "id": 8,
+        "question": "Using this formula, if a reaction was provided with 84g of ethane and unlimited oxygen, how many grams of carbon dioxide would result (Carbon atomic weight: 12amu, Hydrogen atomic weight: 1amu, Oxygen atomic weight: 16amu)?\n\ufeff\nThe unbalanced reaction of ethane gas to carbon dioxide and water is as follows:\n\n C2H4 + O2 \u2014> CO2 + H2O",
+        "truth": "G",
+        "pred": "A",
+        "correct": false,
+        "full_response": "Reasoning: The reaction is unbalanced, so the equation cannot be solved for individual reactants. For any given quantity of carbon dioxide produced (78g to 528g), the mass of ethane consumed will vary by 104 g. Therefore, the answer must fit within that range.\nAnswer: A"
+    },
+    {
+        "id": 9,
+        "question": "An action potential arriving at the motor endplate causes release of:",
+        "truth": "D",
+        "pred": "C",
+        "correct": false,
+        "full_response": "Reasoning: An action potential arrives at the motor endplate and causes release of acetylcholine, which crosses the synaptic cleft. Once released, acetylcholine binds to a cholinergic receptor on the muscle membrane.\nAnswer: C"
+    },
+    {
+        "id": 10,
+        "question": "Which of the following is not an abnormal breathing pattern seen in head injury and altered conscious level?",
+        "truth": "B",
+        "pred": "A",
+        "correct": false,
+        "full_response": "Reasoning: The correct answer is option (A). Hyperventilation occurs in patients with elevated intracranial pressure or altered conscious level. It is a compensatory mechanism for reduced cerebral blood flow and increased intracranial pressure.\nAnswer: A"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is not true for myelinated nerve fibers:",
+        "truth": "A",
+        "prediction": "D",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The correct answer is option C, which says that saltatory conduction of impulses is seen in myelinated nerve fibers.\nAnswer: D"
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is not true about glomerular capillaries')",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.95,
+        "correct": true,
+        "full_response": "Confidence: 0.95\nReasoning: Hematocrit is same, glucose concentration is the same, oncotic pressure of leaving fluid less than entering fluid, so (A) is true.\nAnswer: A."
+    },
+    {
+        "id": 3,
+        "question": "A 29 yrs old woman with a pregnancy of 17 week has a 10 years old boy with down syndrome. She does not want another down syndrome kid; best advice to her is",
+        "truth": "C",
+        "prediction": "C",
+        "confidence": 0.89,
+        "correct": true,
+        "full_response": "Confidence: 0.89\nReasoning: Amniotic fluid samples plus chromosomal analysis is the most appropriate test to determine whether or not a fetus has down syndrome, but it's only recommended for women 35 and older.\nAnswer: C"
+    },
+    {
+        "id": 4,
+        "question": "Axonal transport is:",
+        "truth": "C",
+        "prediction": "B",
+        "confidence": 0.94,
+        "correct": false,
+        "full_response": "Confidence: 0.94\nReasoning: Axonal transport is the movement of proteins and other molecules from the neuron cell body to its axon terminals (synapses) and back again. Antegrade (forward) transport refers to moving materials in an anterograde direction, while retrograde (backward) transport refers to moving materials in a retrograde direction.\nAnswer: B"
+    },
+    {
+        "id": 5,
+        "question": "Low insulin to glucagon ratio is seen in all of these except:",
+        "truth": "A",
+        "prediction": "B",
+        "confidence": 0.82,
+        "correct": false,
+        "full_response": "Confidence: 0.82\nReasoning: Low insulin to glucagon ratio is seen in Glycogen synthesis and Ketogenesis but not in Gluconeogenesis or Glycogen breakdown.\nAnswer: B"
+    },
+    {
+        "id": 6,
+        "question": "Concentration of tropicamide:",
+        "truth": "A",
+        "prediction": "D",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: Tropicamide is a muscarinic antagonist that paralyzes the iris, causing it to dilate and the pupil to constrict. The highest concentration of tropicamide causes maximum dilation (1.25mm). This will allow for maximum light passage through the lens, so the lowest dose is best.\nAnswer: D"
+    },
+    {
+        "id": 7,
+        "question": "Which of the following statements is true regarding H I N1 Influenza?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.93,
+        "correct": true,
+        "full_response": "Confidence: 0.93\nReasoning: Pregnant woman can receive oseltamivir without diagnostic testing under category B.\nAnswer: A"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following are not a branch of external carotid Aery in Kiesselbach's plexus.",
+        "truth": "B",
+        "prediction": "C",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: Greater palatine aery is not a branch of external carotid Aery in Kiesselbach's plexus.\nAnswer: C"
+    },
+    {
+        "id": 9,
+        "question": "Diagnosis of the following ECG-",
+        "truth": "B",
+        "prediction": "D",
+        "confidence": 0.89,
+        "correct": false,
+        "full_response": "Confidence: 0.89\nReasoning: The P wave is enlarged, which suggests left ventricular failure.\nAnswer: D"
+    },
+    {
+        "id": 10,
+        "question": "A blue new born presents with cyanosis. The X\u2013ray chest reveal oligaemic lung field and normal sized heart. Most likely diagnosis is \u2013",
+        "truth": "B",
+        "prediction": "C",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: The normal sized heart and the oligemic lung field suggest that the new born is suffering from Eisenmenger Syndrome due to atrial septal defect or patent ductus arteriosus.\nAnswer: C"
+    },
+    {
+        "id": 11,
+        "question": "27.\tThe lateral spread of dental caries is facilitated mostly  by the",
+        "truth": "B",
+        "prediction": "A",
+        "confidence": 0.85,
+        "correct": false,
+        "full_response": "Confidence: 0.85\nReasoning: In the context of dental caries, \"spindles\" refers to enamel spindle-shaped crystals, which are oriented perpendicularly to the dentinoenamel junction (DEJ). The DEJ is a unique interface between the dentin and enamel. The outermost layer of enamel is very thin in humans and mammals; it consists of a single layer of prismatic cells and a single layer of ameloblasts, which are located at the DEJ. Therefore, the enamel spindles can be seen as part of the DEJ. The dentin contains collagen fibers, which run parallel to the dentinoenamel junction (DEJ). Dentinal tubules penetrate into the dentin and connect with each other at the DEJ. Therefore, the striae of Retzius are formed by the connection of the dentinal tubules in a circular pattern. The enamel lamellae are thin layers of enamel that run perpendicularly to the DEJ. They are located between the prismatic cells and the DEJ; they are often referred to as \"prism sheaths\"."
+    },
+    {
+        "id": 12,
+        "question": "A second-year PG resident tells you to perform an ABG of a patient. All of the following are true about performing an ABG except:",
+        "truth": "A",
+        "prediction": "C",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: ABG is the only way to diagnose metabolic acidosis and anemias. Normal pH, HCO3 and PCO2 levels may not indicate absence of acid-base imbalance.\nAnswer: C"
+    },
+    {
+        "id": 13,
+        "question": "Respiratory rhythm generation center is located at:",
+        "truth": "B",
+        "prediction": "B",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The pre-Botzinger complex is the respiratory rhythm generation center, located between the Dorsal Respiratory Group and Pneumotaxic Center.\nAnswer: B"
+    },
+    {
+        "id": 14,
+        "question": "Gait apraxia is seen in thromboembolic episode involving:",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: Gait apraxia is seen in thromboembolic episode involving ACA, which is confirmed by CT angiogram.\nAnswer: A"
+    },
+    {
+        "id": 15,
+        "question": "Heavy forces on periodontal ligament causes:",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.91,
+        "correct": true,
+        "full_response": "Confidence: 0.91\nReasoning: Hyalinization is the formation of a mass of tissue in an organ or other part of the body that is composed of non-functional, connective tissue cells and extracellular matrix proteins. The excess pressure caused by the heavy force on periodontal ligament will cause hyalinization to form.\nAnswer: A"
+    },
+    {
+        "id": 16,
+        "question": "About N. gonorrhoea, all are true except",
+        "truth": "B",
+        "prediction": "B",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: N. gonorrhoea is the most common cause of urethritis in male and all stains are highly susceptible to penicillin, so A and B are true."
+    },
+    {
+        "id": 17,
+        "question": "A patient who was on ventilator and being ventilated for past few days, suddenly pulls out the endotracheal tube. What is the next step of management?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.89,
+        "correct": true,
+        "full_response": "Confidence: 0.89\nReasoning: The patient is having a spontaneous breathing, so he can be managed with bag and mask ventilation.\nAnswer: A\n\n"
+    },
+    {
+        "id": 18,
+        "question": "In a\t6-month-old child, thick curd like white\tpatch\nappears on the buccal mucosa. On rubbing it leaves an\nerythematous patch. Most likely diagnosis is:",
+        "truth": "D",
+        "prediction": "B",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The lesion is suggestive of Lichen Planus, which can be confirmed by biopsy.\nAnswer: B"
+    },
+    {
+        "id": 19,
+        "question": "Characteristic of venous blood flow of lower limb in duplex Doppler is?",
+        "truth": "A",
+        "prediction": "B",
+        "confidence": 0.92,
+        "correct": false,
+        "full_response": "Confidence: 0.92\nReasoning: Monophasic waveform in duplex Doppler of lower limb is suggestive of deep vein thrombosis or phlebitis.\nAnswer: B"
+    },
+    {
+        "id": 20,
+        "question": "The source of calcium ions of a calcific bridge in a\ntooth in which calcium hydroxide pulpotomy has been\nperformed is:",
+        "truth": "A",
+        "prediction": "C",
+        "confidence": 0.86,
+        "correct": false,
+        "full_response": "Confidence: 0.86\nReasoning: Calcium hydroxide is used to treat pulpitis, but it also induces the formation of a calcific bridge. The calcium ion source in this case is from the calcium hydroxide.\nAnswer: C"
+    },
+    {
+        "id": 21,
+        "question": "2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen",
+        "truth": "B",
+        "prediction": "A",
+        "confidence": 0.93,
+        "correct": false,
+        "full_response": "Confidence: 0.93\nReasoning: Oxygen affinity of haemoglobin decreases when 2, 3-BPG binds to it.\nAnswer: A"
+    },
+    {
+        "id": 22,
+        "question": "Highest concentration of oxygen is delivered through?",
+        "truth": "C",
+        "prediction": "C",
+        "confidence": 0.93,
+        "correct": true,
+        "full_response": "Confidence: 0.93\nReasoning: Bag and mask is the highest concentration of oxygen.\nAnswer: C"
+    },
+    {
+        "id": 23,
+        "question": "Sharpest cusp is seen in",
+        "truth": "A",
+        "prediction": "C",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The sharpest cusp is found in the lower premolar, which is located between the two canines.\nAnswer: C"
+    },
+    {
+        "id": 24,
+        "question": "A mother is Hbs Ag positive and anti Hbe Ag positive. Risk of transmission of Hep. B in child is:",
+        "truth": "A",
+        "prediction": "D",
+        "confidence": 0.85,
+        "correct": false,
+        "full_response": "Confidence: 0.85\nReasoning: Mother is Hbs Ag positive and anti Hbe Ag positive, which means she has chronic Hep B infection. Risk of transmission to child is 90%.\nAnswer: D."
+    },
+    {
+        "id": 25,
+        "question": "In a patient with competent lips together at rest, the lip\nline is opposite the tips of the upper incisors. The lip line is then described as",
+        "truth": "D",
+        "prediction": "C",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: Average lip line is opposite the upper incisors, not at rest; therefore, it is described as Incomplete.\nAnswer: C"
+    },
+    {
+        "id": 26,
+        "question": "A patient presented to emergency with overdose some drug. There were increased salivation and increased bronchial secretions. On examination, blood pressure was 88/60 mmHg. RBC esterase level is 50. What should be the treatment of this person?",
+        "truth": "B",
+        "prediction": "A",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The patient has overdosed on an anticholinergic drug, causing increased salivation and bronchial secretions. Atropine is the antidote. Physostigmine, while a similar drug, is not indicated here."
+    },
+    {
+        "id": 27,
+        "question": "The current bar clasp design used is:",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.81,
+        "correct": true,
+        "full_response": "Confidence: 0.81\nReasoning: The mesio-occlusal rest is the standard bar clasp design as it fits most dentures and is easy to insert and remove.\nAnswer: A"
+    },
+    {
+        "id": 28,
+        "question": "All of the following are true regarding Class-II inlay gingival margins preparation except?",
+        "truth": "D",
+        "prediction": "A",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: Removal of week enamel rods and increased metal burnishability are required for Class-II inlay gingival margins preparation. Lap sliding fit is a concern only when inlays are placed in self-cleansable areas (e.g., mandibular molars).\nAnswer: A"
+    },
+    {
+        "id": 29,
+        "question": "Breakdown of periodontal fibres in periodontitis is due to bacterial enzyme: (OR) Which of the following bacterial products have been implicated in initiation of inflammatory periodontal disease?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The bacterial products associated with periodontal disease include collagenase, hyaluronidase, and coagulase.\nAnswer: A"
+    },
+    {
+        "id": 30,
+        "question": "In a study, two groups of newborns are checked for their weights based on whether their mothers received food supplements or not. The appropriate test which can be used for comparing the data is:",
+        "truth": "C",
+        "prediction": "A",
+        "confidence": 0.96,
+        "correct": false,
+        "full_response": "Confidence: 0.96\nReasoning: The Chi square test is used to determine if a categorical variable has two or more distinct values. Here, the data are numerical and so T-test should be used."
+    },
+    {
+        "id": 31,
+        "question": "Which vitamin is required for glycogen Phosphorylase?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: Vitamin B6 (PLP) is required for glycogen phosphorylase, as it acts as a co-factor in the enzymatic conversion of glycogen to glucose."
+    },
+    {
+        "id": 32,
+        "question": "A child's behaviour is traced to have dental difficulties\nfrom\this\tmother.\tThe\tmost\tsatisfactory\tmethod\tof\nhandling the situation is to:",
+        "truth": "B",
+        "prediction": "C",
+        "confidence": 0.84,
+        "correct": false,
+        "full_response": "Confidence: 0.84\nReasoning: The most satisfactory method of handling the situation is to use firmness, which should be accompanied by familiarization to break his fear.\nAnswer: C"
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is the only complete cailage ring in the respiratory tree?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.00\nReasoning: The only complete cailage ring in the respiratory tree is the cricoid, because it has a hollow center and is attached to all surrounding structures by cartilage, whereas thyroid, cunieform, and epiglottis are muscular structures with no cartilage.\nAnswer: A"
+    },
+    {
+        "id": 34,
+        "question": "Steps of intubation - arrange in sequence:- a. Head extension and flexion of neck b. Introduction of laryngoscope c. Inflation of cuff d. Check breath sounds with stethoscope e. fixation of the tube to prevent dislodgement",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.94,
+        "correct": true,
+        "full_response": "Confidence: 0.94\nReasoning: The sequence is ABCDE, where 'A' stands for head extension and flexion of neck, 'B' stands for introduction of laryngoscope, 'C' stands for inflation of cuff, 'D' stands for check breath sounds with stethoscope, and 'E' stands for fixation of the tube to prevent dislodgement.\nAnswer: ABCDE"
+    },
+    {
+        "id": 35,
+        "question": "In Erythroblastosis fetalis not involved is \u2013",
+        "truth": "D",
+        "prediction": "B",
+        "confidence": 0.98,
+        "correct": false,
+        "full_response": "Confidence: 0.98\nReasoning: Erythroblastosis fetalis is an alloimmune condition in which the mother's immune system produces antibodies that react with fetal red blood cells, which are inherited from the father. These antibodies cross the placenta and cause hemolysis of the fetal red blood cells (erythroblastosis). The most common form is a reaction against the Rhesus protein D.\nAnswer: B"
+    },
+    {
+        "id": 36,
+        "question": "A dentist suffered from Hepatitis B infection 3 months back. His laboratory tests are normal, but he is not allowed by the medical board to do surgical practice. He is:",
+        "truth": "C",
+        "prediction": "D",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: Hepatitis B infection lasts for 6 months, but the dentist is not allowed to practice surgery before 3 months. Therefore he is a paradoxical carrier.\nAnswer: D"
+    },
+    {
+        "id": 37,
+        "question": "A pediatrician in a district hospital with specialization neonatal care unit calls an ophthalmologist for consultation for which of the following?",
+        "truth": "B",
+        "prediction": "A",
+        "confidence": 0.95,
+        "correct": false,
+        "full_response": "Confidence: 0.95\nReasoning: Ophthalmologist is called for a newborn with respiratory distress, which is caused by RDS (Respiratory Distress Syndrome) that is common in preterm babies and the main cause of neonatal mortality.\nAnswer: A"
+    },
+    {
+        "id": 38,
+        "question": "In a child with active liver failure, the most important prognosis factor for death is \u2013",
+        "truth": "D",
+        "prediction": "B",
+        "confidence": 0.84,
+        "correct": false,
+        "full_response": "Confidence: 0.84\nReasoning: The most important prognosis factor for death in a child with active liver failure is increasing bilirubin. This can be predicted by the PELD score, which takes into account both transaminases and bilirubin.\nAnswer: B"
+    },
+    {
+        "id": 39,
+        "question": "A patient went into shock immediately after normal delivery, likely cause:",
+        "truth": "C",
+        "prediction": "A",
+        "confidence": 0.86,
+        "correct": false,
+        "full_response": "Confidence: 0.86\nReasoning: Amniotic fluid embolism (A) is a rare, but possible cause of postpartum hemorrhage (PPH). Eclampsia (D), uterine inversion (C), and PPH itself all produce shock.\nAnswer: A"
+    },
+    {
+        "id": 40,
+        "question": "A patient presented with flat topped violaceous papules, thinning of nails and onycholysis. What is the microscopic finding observed in this patient?",
+        "truth": "C",
+        "prediction": "C",
+        "confidence": 0.92,
+        "correct": true,
+        "full_response": "Confidence: 0.92\nReasoning: This patient is diagnosed with Pemphigus Vulgaris, which is characterized by suprabasal split and acantholysis in histopathology.\nAnswer: C"
+    },
+    {
+        "id": 41,
+        "question": "Which of the following is not. true regarding myelopathy?",
+        "truth": "B",
+        "prediction": "D",
+        "confidence": 0.89,
+        "correct": false,
+        "full_response": "Confidence: 0.89\nReasoning: Urgency and incontinence of micturition is not a symptom of myelopathy.\nAnswer: D"
+    },
+    {
+        "id": 42,
+        "question": "Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?",
+        "truth": "A",
+        "prediction": "C",
+        "confidence": 0.93,
+        "correct": false,
+        "full_response": "Confidence: 0.93\nReasoning: The Sundar Committee was formed to review the medical education system in India in 1962, and recommended a three-year Bachelor's degree for rural health service.\nAnswer: C"
+    },
+    {
+        "id": 43,
+        "question": "Sequential arrangement of fetal scans -",
+        "truth": "D",
+        "prediction": "D",
+        "confidence": 0.93,
+        "correct": true,
+        "full_response": "Confidence: 0.93\nReasoning: Growth scan is first, Triple marker second, then Anomalous Scan and NT scan.\nAnswer: D"
+    },
+    {
+        "id": 44,
+        "question": "Which one of the following is a muscle splitting incision?",
+        "truth": "D",
+        "prediction": "C",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: A Lanz incision is a muscle splitting incision, but not the others.\nAnswer: C\n\n## "
+    },
+    {
+        "id": 45,
+        "question": "Multiple canals in mandibular premolars are seen in?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.96,
+        "correct": true,
+        "full_response": "Confidence: 0.96\nReasoning: The multiple canals seen in the premolars are a characteristic of mandibular second molars, which would be more likely found in people of African descent rather than Caucasians."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following blade angle is appropriate for scaling and root planing",
+        "truth": "B",
+        "prediction": "B",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: A, B and C are all too small, while D is too large for scaling and root planing.\nAnswer: B"
+    },
+    {
+        "id": 47,
+        "question": "Which pa of brachial plexus do not give branches",
+        "truth": "B",
+        "prediction": "A",
+        "confidence": 0.92,
+        "correct": false,
+        "full_response": "Confidence: 0.92\nReasoning: The brachial plexus is the network of nerves that innervates the upper limb, and the roots of the brachial plexus are located in the neck. There are no branches in the root of the brachial plexus.\nAnswer: A"
+    },
+    {
+        "id": 48,
+        "question": "If the Rb gene phosphorylation is defective, which of the following will happen?",
+        "truth": "A",
+        "prediction": "A",
+        "confidence": 0.92,
+        "correct": true,
+        "full_response": "Confidence: 0.92\nReasoning: The Rb gene is a tumor suppressor gene, and when it's phosphorylation is defective, the cell cycle will stop at G1 phase.\nAnswer: A"
+    },
+    {
+        "id": 49,
+        "question": "Cumulative index is:",
+        "truth": "C",
+        "prediction": "C",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The cumulative index is the sum of gingival index and plaque index.\nAnswer: C"
+    },
+    {
+        "id": 50,
+        "question": "The cells which will proliferate from top to bottom of villi are:",
+        "truth": "C",
+        "prediction": "B",
+        "confidence": 0.83,
+        "correct": false,
+        "full_response": "Confidence: 0.83\nReasoning: Goblet cells, as a part of the epithelium, will proliferate from top to bottom.\nAnswer: B"
+    }
+]

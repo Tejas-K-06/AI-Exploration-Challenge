@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.93,
+        "correct": true,
+        "full_response": "Confidence: 0.93\nReasoning: The paper found that mitochondrial dynamics, including changes in permeability transition pore (PTP) formation, are involved in cell death. It is not clear how these dynamics relate to the TUNEL assay, but it is still likely that they play a role.\nAnswer: yes"
+    },
+    {
+        "id": 2,
+        "question": "Landolt C and snellen e acuity: differences in strabismus amblyopia?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": false,
+        "full_response": "Confidence: 0.96\nReasoning: The study showed that differences between the Landolt C and Snellen E acuity are small, which is consistent with a previous study by .\nAnswer: yes"
+    },
+    {
+        "id": 3,
+        "question": "Syncope during bathing in infants, a pediatric form of water-induced urticaria?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": true,
+        "full_response": "Confidence: 0.96\nReasoning: The infants had similar symptoms, and the pathophysiology was hypothesized to be similar to aquagenic urticaria.\nAnswer: yes"
+    },
+    {
+        "id": 4,
+        "question": "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.86,
+        "correct": false,
+        "full_response": "Confidence: 0.86\nReasoning: The TERPT procedure is the most common surgical treatment for HD, and long-term results are excellent with continence recovery rates of >90%. In addition, postoperative complications of this technique are rare. However, there is still controversy regarding the best surgical approach to HD, in terms of functional outcome, quality of life, and complication rate.\nAnswer: yes"
+    },
+    {
+        "id": 5,
+        "question": "Can tailored interventions increase mammography use among HMO women?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The interventions were effective in promoting mammography screening compared to usual care.\nAnswer: yes"
+    },
+    {
+        "id": 6,
+        "question": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+        "truth": "yes",
+        "prediction": "REFUSAL",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The data is very clear and the outcome was confirmed by DBE in all cases of VCE findings. This shows that DBE can be safe and efficacious in a community setting."
+    },
+    {
+        "id": 7,
+        "question": "30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?",
+        "truth": "maybe",
+        "prediction": "REFUSAL",
+        "confidence": 0.84,
+        "correct": false,
+        "full_response": "Confidence: 0.84\nReasoning: There is a statistically significant difference between the 30-day mortality and age related 30-day mortality in patients aged >70 years compared to those aged <70 years (p<0.05)."
+    },
+    {
+        "id": 8,
+        "question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.9683,
+        "correct": false,
+        "full_response": "Confidence: 0.9683\nReasoning: The CHOPIT model provides more accurate results than the uncorrected ordered probit model.\nAnswer: yes"
+    },
+    {
+        "id": 9,
+        "question": "Do mutations causing low HDL-C promote increased carotid intima-media thickness?",
+        "truth": "no",
+        "prediction": "maybe",
+        "confidence": 0.84,
+        "correct": false,
+        "full_response": "Confidence: 0.84\nReasoning: cIMT measurements were nearly identical between cases and controls despite significantly lower HDL cholesterol and apolipoprotein A-I levels.\nAnswer: maybe"
+    },
+    {
+        "id": 10,
+        "question": "A short stay or 23-hour ward in a general and academic children's hospital: are they effective?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": true,
+        "full_response": "Confidence: 0.96\nReasoning: The study demonstrated a statistically significant reduction in mortality.\nAnswer: yes"
+    },
+    {
+        "id": 11,
+        "question": "Did Chile's traffic law reform push police enforcement?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study showed that police traffic enforcement significantly reduced fatalities and severe injuries during the post-reform period (2007-2012).\nAnswer: yes"
+    },
+    {
+        "id": 12,
+        "question": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.81,
+        "correct": false,
+        "full_response": "Confidence: 0.81\nReasoning: The study demonstrated that therapeutic anticoagulation was safe in trauma patients.\nAnswer: yes"
+    },
+    {
+        "id": 13,
+        "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The MCV is a reliable predictor of alcoholic steatohepatitis, and high-grade fibrosis was more common in ASH.\nAnswer: yes"
+    },
+    {
+        "id": 14,
+        "question": "Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: We know that PCPs do not regularly discuss family history and therefore this would prompt them to do so more regularly, thus increasing the chance of patients being screened for diseases in which they are at risk.\nAnswer: yes"
+    },
+    {
+        "id": 15,
+        "question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.91,
+        "correct": true,
+        "full_response": "Confidence: 0.91\nReasoning: The programs without fellowships had more barriers to residents' US education, and the fellows performed more scans than those in programs with no fellowship.\nAnswer: yes"
+    },
+    {
+        "id": 16,
+        "question": "Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.81,
+        "correct": true,
+        "full_response": "Confidence: 0.81\nReasoning: Patient-controlled therapy of breathlessness in palliative care: A new therapeutic concept for opioid administration?\nAnswer: yes"
+    },
+    {
+        "id": 17,
+        "question": "Is there still a need for living-related liver transplantation in children?",
+        "truth": "yes",
+        "prediction": "REFUSAL",
+        "confidence": 0.84,
+        "correct": false,
+        "full_response": "Confidence: 0.84\nReasoning: The study showed that SLT is a safe and effective alternative to LRT in pediatric liver transplantation when compared with the short-term graft function, postoperative complications, and survival rates of both groups."
+    },
+    {
+        "id": 18,
+        "question": "Do patterns of knowledge and attitudes exist among unvaccinated seniors?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The survey demonstrated that patterns of knowledge and attitudes existed among unvaccinated seniors.\nAnswer: yes"
+    },
+    {
+        "id": 19,
+        "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The model was developed using piglets, a common laboratory animal, that could be used for the retroperitoneoscopic nephrectomy training program.\nAnswer: yes"
+    },
+    {
+        "id": 20,
+        "question": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The study demonstrates a significant association between elevated RHR and casual high BP, an established CVD risk factor. As such it is likely that elevated RHR is also associated with other CVD risk factors in this population, including diabetes mellitus, which was not examined in the study.\nAnswer: yes"
+    },
+    {
+        "id": 21,
+        "question": "Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.81,
+        "correct": true,
+        "full_response": "Confidence: 0.81\nReasoning: The hospital was prepared for HMCIs and the casualty load was not unexpected.\nAnswer: yes"
+    },
+    {
+        "id": 22,
+        "question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.84,
+        "correct": true,
+        "full_response": "Confidence: 0.84\nReasoning: The article shows that the PEEP and PaO2/FiO2 ratio are good predictors of outcome in children with malignancy and ARDS.\nAnswer: yes"
+    },
+    {
+        "id": 23,
+        "question": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: Secondhand smoke exposure is harmful to infants, especially those born prematurely or with respiratory complications.\nAnswer: yes"
+    },
+    {
+        "id": 24,
+        "question": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.00\nReasoning: Each nomogram demonstrated statistically significant and clinically relevant ability to predict BCR, aggressive BCR (PSADT <9 months), and PCSM.\nAnswer: yes"
+    },
+    {
+        "id": 25,
+        "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The association was independent of psychological factors and other frequently unexplained syndromes.\nAnswer: yes"
+    },
+    {
+        "id": 26,
+        "question": "Amblyopia: is visual loss permanent?",
+        "truth": "no",
+        "prediction": "maybe",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.00\nReasoning: The study shows that amblyopic patients can recover some vision, but it is unknown whether the recovery is permanent or temporary.\nAnswer: maybe"
+    },
+    {
+        "id": 27,
+        "question": "Implementation of epidural analgesia for labor: is the standard of effective analgesia reachable in all women?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: All women should receive the best pain management available, therefore all women must receive epidural analgesia for labor.\nAnswer: yes"
+    },
+    {
+        "id": 28,
+        "question": "Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.00\nReasoning: This paper shows a significant correlation between HER2 immunoreactivity and prognosis in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy. The authors also suggest that the role of HER2 as a prognostic factor may be more pronounced in patients who received M-VEC chemotherapy than those who did not receive chemotherapy.\nAnswer: yes"
+    },
+    {
+        "id": 29,
+        "question": "Is halofantrine ototoxic?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The guinea pig is an animal model of malaria, and the hearing damage seen in this study may be extrapolated to humans.\nAnswer: yes"
+    },
+    {
+        "id": 30,
+        "question": "Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.823,
+        "correct": true,
+        "full_response": "Confidence: 0.823\nReasoning: The strongest correlations of VAT area with VAT volume and body weight changes were shown in a slice 3 cm above the lower margin of L3.\nAnswer: yes"
+    },
+    {
+        "id": 31,
+        "question": "Necrotizing fasciitis: an indication for hyperbaric oxygenation therapy?",
+        "truth": "no",
+        "prediction": "no",
+        "confidence": 0.96,
+        "correct": true,
+        "full_response": "Confidence: 0.96\nReasoning: Necrotizing fasciitis is a rare but devastating soft tissue infection. The mortality rate of necrotizing fasciitis (NF) ranges between 25 and 35%. Prognosis depends on early diagnosis and urgent debridement. In the past, hyperbaric oxygenation (HBO) has been recommended as adjuvant therapy for NF, improving patient mortality and outcome. However, the beneficial effect of HBO for NF remains controversial. The study results indicate that HBO may be indicated in patients with severe necrotizing fasciitis to reduce morbidity and mortality."
+    },
+    {
+        "id": 32,
+        "question": "Is the Hawkins sign able to predict necrosis in fractures of the neck of the astragalus?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": false,
+        "full_response": "Confidence: 0.96\nReasoning: The Hawkins sign is a reliable indicator of avascular necrosis in talar neck fractures.\nAnswer: yes"
+    },
+    {
+        "id": 33,
+        "question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.89,
+        "correct": false,
+        "full_response": "Confidence: 0.89\nReasoning: The study concluded that there is no difference in the quality of education between clerkships with and without general surgery as long as other rotations are equal. It's safe to say yes, if you have confidence >= 0.75."
+    },
+    {
+        "id": 34,
+        "question": "Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.8469231,
+        "correct": true,
+        "full_response": "Confidence: 0.8469231\nReasoning: The trial demonstrated a statistically significant reduction in mortality.\nAnswer: yes"
+    },
+    {
+        "id": 35,
+        "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The cases that received aneurysm repair showed significantly better clinical outcome than the controls, while WFNS grade on admission and premorbid modified Rankin Scale showed no difference between them.\nAnswer: yes"
+    },
+    {
+        "id": 36,
+        "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.92,
+        "correct": false,
+        "full_response": "Confidence: 0.92\nReasoning: The results suggest that practices which had more diabetes-educated staff tended to make greater use of the information system, and this was particularly evident for nurses. This may be because such practices were already in a position to maximise benefits from the IT innovation or perhaps because they had a predisposition towards using it.\nAnswer: yes"
+    },
+    {
+        "id": 37,
+        "question": "Prognosis of well differentiated small hepatocellular carcinoma--is well differentiated hepatocellular carcinoma clinically early cancer?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.83,
+        "correct": false,
+        "full_response": "Confidence: 0.83\nReasoning: The study suggests that w-d HCC is not always early cancer, but some of them could be early cancer.\nAnswer: yes"
+    },
+    {
+        "id": 38,
+        "question": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": false,
+        "full_response": "Confidence: 0.96\nReasoning: The study shows that follow-up recommendations are not effective for all patients, and that adherence is increased with reminders to patients.\nAnswer: yes"
+    },
+    {
+        "id": 39,
+        "question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.95,
+        "correct": true,
+        "full_response": "Confidence: 0.95\nReasoning: The proposed method is a good alternative to the traditional morphological approach, which is time consuming and may represent a limiting factor for sampling network enhancement.\nAnswer: yes"
+    },
+    {
+        "id": 40,
+        "question": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: The study was a randomized trial, and the statistical significance of the difference in reduction of mortality was demonstrated.\nAnswer: yes"
+    },
+    {
+        "id": 41,
+        "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.98,
+        "correct": true,
+        "full_response": "Confidence: 0.98\nReasoning: The study shows that excimer laser keratorefractive surgery causes a significant reduction in collagen fibrils and/or the degree of lamellar interweaving in Bowman's layer, the anterior third of the corneal stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. This is supported by the study's finding that cohesive tensile strength testing directly supports these morphologic findings as the stronger, more rigid regions of the cornea are located anteriorly and peripherally.\nAnswer: yes"
+    },
+    {
+        "id": 42,
+        "question": "Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.94,
+        "correct": true,
+        "full_response": "Confidence: 0.94\nReasoning: The study showed that radiotherapy was associated with a lower rate of clear resection margins, which in turn led to worse survival outcomes.\nAnswer: yes"
+    },
+    {
+        "id": 43,
+        "question": "Can a practicing surgeon detect early lymphedema reliably?",
+        "truth": "maybe",
+        "prediction": "yes",
+        "confidence": 0.93,
+        "correct": false,
+        "full_response": "Confidence: 0.93\nReasoning: The study demonstrates that a 10% increase in circumference at two sites (i.e., the mid-arm and below elbow) is an acceptable way to detect lymphedema in breast cancer survivors. A 5% increase in circumference at any site is more sensitive than using the same criteria at two sites, but also less specific.\nAnswer: yes"
+    },
+    {
+        "id": 44,
+        "question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 0.96,
+        "correct": false,
+        "full_response": "Confidence: 0.96\nReasoning: The study is of retrospective nature, but the results suggest a benefit of global management in terms of survival and number of procedures.\nAnswer: yes"
+    },
+    {
+        "id": 45,
+        "question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?",
+        "truth": "yes",
+        "prediction": "no",
+        "confidence": 0.86,
+        "correct": false,
+        "full_response": "Confidence: 0.86\nReasoning: Eye tracking has been shown to affect speed discrimination performance in schizophrenia patients, and eye-tracking abnormality is also present in these patients. Thus, the motion perception deficit may be caused by the eye-tracking abnormality."
+    },
+    {
+        "id": 46,
+        "question": "Transgastric endoscopic splenectomy: is it possible?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.84,
+        "correct": true,
+        "full_response": "Confidence: 0.84\nReasoning: The splenic vessels were successfully ligated using endoscopic clips and loops, and the spleen was mobilized to the level of the hilum.\nAnswer: yes"
+    },
+    {
+        "id": 47,
+        "question": "It's Fournier's gangrene still dangerous?",
+        "truth": "yes",
+        "prediction": "no",
+        "confidence": 0.92,
+        "correct": false,
+        "full_response": "Confidence: 0.92\nReasoning: Patients with Fournier's gangrene have a mortality rate of 36%. Mortality is associated with age, diabetes mellitus and leukocytosis. We should consider the possibility of this disease in patients with fever of unknown origin or genital symptoms."
+    },
+    {
+        "id": 48,
+        "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": true,
+        "full_response": "Confidence: 1.0\nReasoning: The elderly kidneys are not as good as the young donors, but there is no difference in survival and creatinine clearance between the groups.\nAnswer: yes"
+    },
+    {
+        "id": 49,
+        "question": "Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?",
+        "truth": "yes",
+        "prediction": "yes",
+        "confidence": 0.95,
+        "correct": true,
+        "full_response": "Confidence: 0.95\nReasoning: The Demonstration resulted in lower expenditures compared with HMOs and primary care case management.\nAnswer: yes "
+    },
+    {
+        "id": 50,
+        "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+        "truth": "no",
+        "prediction": "yes",
+        "confidence": 1.0,
+        "correct": false,
+        "full_response": "Confidence: 1.0\nReasoning: Significant carotid stenosis is a risk factor for perioperative stroke. Perioperative strokes were all in the high-risk group and none of the low-risk patients had significant carotid disease or perioperative stroke. Therefore, screening only those at high risk will detect all significant carotid stenoses and prevent perioperative stroke in patients undergoing CAB.\nAnswer: yes"
+    }
+]

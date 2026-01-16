@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "subset": "clinical_knowledge",
+        "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: A cannula is a small, hollow tube used to enter blood vessels for the purpose of drawing or giving blood. The diameter of a cannula (the space between the outer and inner surfaces) is measured in gauge, which is defined as the number of times the circumference of the cannula fits into that of a standard needle. For example, a 20-gauge catheter has a cannula whose diameter is two times the diameter of a 22-gauge catheter. In other words, a 18-gauge catheter would be twice as large in cross sectional area as a 24-gauge catheter (A). Therefore, we choose option A.\nAnswer: A"
+    },
+    {
+        "id": 2,
+        "subset": "clinical_knowledge",
+        "question": "The key attribute in successful marathon running is:",
+        "truth": "D",
+        "pred": "C",
+        "reasoning": "Reasoning: Running a marathon requires stamina (D). A runner must be able to run at a high pace for long periods of time. Strength is required to lift the body up and down while running (A), which would make it difficult to run a race of this length. Power is necessary to propel your own body through the air, which is not needed in this case. Stride length is the distance between steps; longer strides are desirable as they reduce the energy required for each step (C).\nAnswer: C"
+    },
+    {
+        "id": 3,
+        "subset": "clinical_knowledge",
+        "question": "Which of the following is the commonest cause of dementia in the UK?",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: The commonest cause of dementia in the UK is Alzheimer's disease. Stroke causes a variety of cognitive deficits, but not dementia per se. Lewy bodies are found in Parkinson's disease and dementia with Lewy bodies. HIV is neurotropic; it can cause dementia (HIV-associated dementia), but it is less common than Alzheimer's disease.\nAnswer: A"
+    },
+    {
+        "id": 4,
+        "subset": "clinical_knowledge",
+        "question": "Which of the following is NOT a symptom of anaphylaxis?",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "Reasoning: Anaphylaxis is an allergic reaction that may be caused by a variety of triggers, including foods, medications, and insect venom. Symptoms include hives, angioedema, pruritus, dyspnea, wheezing, hypotension, and shock. Therefore, the answer is C.\nAnswer: B"
+    },
+    {
+        "id": 5,
+        "subset": "clinical_knowledge",
+        "question": "In what situation are closed pouches applied?",
+        "truth": "B",
+        "pred": "C",
+        "reasoning": "Reasoning: Closed pouches are used for patients who have a colostomy. Colostomies are formed from the colon and require the use of an ostomy bag to contain fecal matter. In contrast, urostomies are formed by the urinary bladder (A). The immediate post-operative period is when the patient has had surgery in the previous 24 hours. Therefore, closed pouches are used for patients with colostomies and not patients who have just had an operation.\nAnswer: C"
+    },
+    {
+        "id": 6,
+        "subset": "clinical_knowledge",
+        "question": "With an increasing number of sprints the:",
+        "truth": "D",
+        "pred": "C",
+        "reasoning": "Reasoning: The anaerobic contribution progressively increases with increasing sprints (A). Blood glucose concentration falls below 3 mmol/L after approximately 10 seconds of intense exercise, then it stabilizes at a rate of ~2.5 mmol/L. Therefore, the answer is B.\nAnswer: C"
+    },
+    {
+        "id": 7,
+        "subset": "clinical_knowledge",
+        "question": "Which of the following is true in diplopia?",
+        "truth": "B",
+        "pred": "C",
+        "reasoning": "Reasoning: Diplopia is a medical term for double vision. It can be caused by misalignment of the eyes (strabismus), damage to the nerves that control movement of the eyes, or damage to the muscles that move the eyes. A fourth nerve palsy causes downward deviation (B). A sixth nerve palsy causes a divergent squint (D). Therefore, the correct answer is C.\nAnswer: C"
+    },
+    {
+        "id": 8,
+        "subset": "clinical_knowledge",
+        "question": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+        "truth": "A",
+        "pred": "C",
+        "reasoning": "Reasoning: Sodium bicarbonate ingestion improves middle distance running performance by decreasing the pH and buffering capacity of the extracellular fluid. This allows a faster efflux of hydrogen ions from muscle, thus delaying fatigue. A lower pre-exercise muscle pH is also associated with improved endurance.\nAnswer: C"
+    },
+    {
+        "id": 9,
+        "subset": "clinical_knowledge",
+        "question": "Codons are composed of:",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: Codons are composed of triplet sequences of nucleotide bases in mRNA or DNA. Therefore, the answer is (A).\nAnswer: A"
+    },
+    {
+        "id": 10,
+        "subset": "clinical_knowledge",
+        "question": "Fatty acids are transported into the mitochondria bound to:",
+        "truth": "D",
+        "pred": "C",
+        "reasoning": "Reasoning: Fatty acids are transported into the mitochondria bound to carnitine. Thiokinase (A), CoA (B), and acetyl-CoA (C) would be inactive, so the answer is D.\nAnswer: C"
+    },
+    {
+        "id": 11,
+        "subset": "medical_genetics",
+        "question": "In a Robertsonian translocation fusion occurs at the:",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "Reasoning: Robertsonian translocations involve fusion of two chromosomes, one from each parent. The ends of the long arms are involved in the fusion. Therefore, the correct answer is D.\nAnswer: B"
+    },
+    {
+        "id": 12,
+        "subset": "medical_genetics",
+        "question": "Zinc finger proteins and helix-turn-helix proteins are",
+        "truth": "A",
+        "pred": "C",
+        "reasoning": "Zinc finger proteins and helix-turn-helix proteins are both types of DNAbinding proteins (A). Ribosomes consist of RNA and protein. Therefore, components of ribosomes are (C). Blood cells contain hemoglobin (D). Therefore, the answer is C.\nAnswer: C"
+    },
+    {
+        "id": 13,
+        "subset": "medical_genetics",
+        "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?",
+        "truth": "A",
+        "pred": "C",
+        "reasoning": "Reasoning: The frequency of females affected with an X-linked recessive condition in a human population is .10 (one in ten). Therefore, the expected frequency of affected females is 0.02 (C).\nAnswer: C"
+    },
+    {
+        "id": 14,
+        "subset": "medical_genetics",
+        "question": "In DNA adenine normally pairs with:",
+        "truth": "C",
+        "pred": "A",
+        "reasoning": "Reasoning: A normally pairs with T in DNA (A). G normally pairs with C (B). U normally pairs with T (D). Therefore, the pairing is A with T.\nAnswer: A\n"
+    },
+    {
+        "id": 15,
+        "subset": "medical_genetics",
+        "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: Malignant hyperthermia (MH) is an autosomal dominant disorder. Therefore, the pattern of inheritance is autosomal dominant.\nAnswer: A "
+    },
+    {
+        "id": 16,
+        "subset": "medical_genetics",
+        "question": "Mapping of human chromosomes:",
+        "truth": "B",
+        "pred": "C",
+        "reasoning": "Reasoning: The mapping of human chromosomes has been restricted to the sex chromosomes because of small family sizes. Human population size is too small for linkage analysis. Therefore, the number of linkage groups is greater than the number of chromosomes (C). Almost all of the DNA is involved in coding for genes (D).\nAnswer: C"
+    },
+    {
+        "id": 17,
+        "subset": "medical_genetics",
+        "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.",
+        "truth": "D",
+        "pred": "A",
+        "reasoning": "Reasoning: Intergenerational transmission is when parents pass on traits to their offspring. The parental exposure can be war (A), natural disasters (B), hunger (C), or all of these.\nAnswer: A-D"
+    },
+    {
+        "id": 18,
+        "subset": "medical_genetics",
+        "question": "Asp235Phe in a molecular report indicates that:",
+        "truth": "C",
+        "pred": "A",
+        "reasoning": "Reasoning: Asp235Phe indicates that phenylalanine is present at position 235 in the protein sequence. Phenylalanine has been replaced by asparagine (A) or aspartic acid (D). Asparagine is replaced by phenylalanine (B), and aspartic acid is replaced by phenylalanine (C). Therefore, Asp235Phe indicates that asparagine has been replaced by phenylalanine.\nAnswer: A"
+    },
+    {
+        "id": 19,
+        "subset": "medical_genetics",
+        "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:",
+        "truth": "D",
+        "pred": "C",
+        "reasoning": "Reasoning: Phenylketonuria is an autosomal recessive disorder. Therefore, the probability of a child inheriting this condition from both parents is 25%. The risk of abnormality in the child of a mother with untreated phenylketonuria (A) is higher than that of a normal pregnancy (1%). The risk is also lower than the risk of the child inheriting the disorder from one parent only (C). Therefore, the correct answer is 25% (B).\nAnswer: C"
+    },
+    {
+        "id": 20,
+        "subset": "medical_genetics",
+        "question": "Exon skipping is associated with:",
+        "truth": "C",
+        "pred": "A",
+        "reasoning": "Exon skipping is associated with nonsense, regulatory, and RNA processing mutations. Silent mutations are synonymous changes that do not alter the amino acid sequence of a protein. Therefore, the correct answer is A (nonsense mutations).\nAnswer: A"
+    },
+    {
+        "id": 21,
+        "subset": "anatomy",
+        "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral",
+        "truth": "A",
+        "pred": "C",
+        "reasoning": "Reasoning: The facial nerve is an efferent cranial nerve that controls the muscles of facial expression. If the nerve is compressed, it will cause paralysis of the muscles on the side of the lesion (B). If the nerve is severed, paralysis will occur on both sides (D)\nAnswer: C"
+    },
+    {
+        "id": 22,
+        "subset": "anatomy",
+        "question": "A \"dished face\" profile is often associated with",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Reasoning: The dished face profile is associated with a protruding mandible (A). In acromegaly, the condylar cartilage reactivates and causes the protrusion of the mandible. Therefore, the correct answer is A.\nAnswer: A"
+    },
+    {
+        "id": 23,
+        "subset": "anatomy",
+        "question": "Which of the following best describes the structure that collects urine in the body?",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "The structure that collects urine in the body is the bladder. The kidney is where urine is made, the ureter is the tube that connects the kidneys to the bladder, and the urethra is the tube that carries urine out of the body (A).\nAnswer: A"
+    },
+    {
+        "id": 24,
+        "subset": "anatomy",
+        "question": "Which of the following structures is derived from ectomesenchyme?",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "The correct answer is structure C. Ectomesenchyme cells are multipotent, and can give rise to a variety of cell types, including neurons (A), muscle cells (B), melanocytes (C), and sweat glands (D).\nAnswer: C"
+    },
+    {
+        "id": 25,
+        "subset": "anatomy",
+        "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Reasoning: The glomerulus is a cluster of blood capillaries found in each nephron. The afferent arteriole is the small vessel that brings blood to the glomerulus, and the efferent arteriole is the vessel that carries blood out of the glomerulus. Therefore, the correct answer would be option A (afferent arteriole).\nAnswer: A"
+    },
+    {
+        "id": 26,
+        "subset": "anatomy",
+        "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Reasoning: The patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra. This is an incomplete injury, meaning that there is still communication between the brain and spinal cord at the site of the injury. Incomplete injuries allow for some movement, but breathing may be compromised. The patient will not be able to breathe without life support (A). They will only be able to breathe quietly (B). It is impossible to predict an effect on breathing (C). Breathing will be unaffected (D). Answer: A"
+    },
+    {
+        "id": 27,
+        "subset": "anatomy",
+        "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: The epigastric region is just above the umbilicus (A), which lies at the level of the xiphoid process. Hypochondriac and hypogastric lie below the umbilicus, in the hypaxial regions (B, C). Lumbar is a region of lower back (D). Therefore, answer A.\nAnswer: A"
+    },
+    {
+        "id": 28,
+        "subset": "anatomy",
+        "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "Reasoning: The human body's defense mechanism against environmental bacteria is mucous membranes. Mucous membranes are moist, slippery tissue that lines the inside of the nose, mouth, and throat, as well as other parts of the body. It helps protect the body from harmful substances in the environment.\nAnswer: B"
+    },
+    {
+        "id": 29,
+        "subset": "anatomy",
+        "question": "The palatine processes begin to fuse at",
+        "truth": "C",
+        "pred": "B",
+        "reasoning": "Reasoning: The palatine processes are part of the hard palate. Hard palate development begins at 26 weeks post-fertilization (B). Soft tissue development occurs after bone development. Therefore, the correct answer is eight weeks post-fertilization."
+    },
+    {
+        "id": 30,
+        "subset": "anatomy",
+        "question": "Primary motor cortex activity results in",
+        "truth": "D",
+        "pred": "A",
+        "reasoning": "Reasoning: The primary motor cortex (PMC) is an area of the brain that controls voluntary movement. Its activity results in bilateral contraction of antigravity limb muscles (A). PMC activity results in unilateral contraction of limb musculature (B). This is a result of crossed corticospinal connections to spinal motor neurons, which innervate contralateral limb muscle (C). PMC activity results in ipsilateral contraction of limb musculature (D).\nAnswer: A"
+    },
+    {
+        "id": 31,
+        "subset": "professional_medicine",
+        "question": "A 67-year-old woman comes to the physician for a follow-up examination. She had a pulmonary embolism and required treatment in the hospital for 3 weeks. She had a retroperitoneal hemorrhage; anticoagulant therapy was temporarily discontinued, and she underwent placement of an inferior vena cava (IVC) filter. She had a hematoma that was resolving on discharge from the hospital 2 weeks ago. Today, she says she has had a persistent sensation of tingling and numbness of her left thigh that she did not report in the hospital because she thought it would go away; the sensation has improved somewhat during the past week. Her only medication is warfarin. Vital signs are within normal limits. Examination of the skin shows no abnormalities. Muscle strength is normal. Sensation to light touch is decreased over a 5 x 5-cm area on the lateral aspect of the left anterior thigh. Which of the following is the most likely cause of this patient's decreased sensation?",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "Reasoning: The patient has a decreased sensation on her left thigh. This could be due to cerebral infarction (A), which would cause weakness in the muscles of the contralateral side, or compression of the lateral femoral cutaneous nerve (C). Complication of IVC filter placement is not a common complication and would lead to more generalized symptoms. An hematoma from the thigh leads to sensory deficits in the area of the hematoma (D). Therefore, compression of the lateral femoral cutaneous nerve is the most likely cause of this patient's decreased sensation.\nAnswer: C"
+    },
+    {
+        "id": 32,
+        "subset": "professional_medicine",
+        "question": "A 25-year-old gravida 3 para 2 female is admitted to the hospital at 39\u00a0weeks' gestation in active labor. She had been having regular contractions every 4\u00a0minutes, but is now having only a few intermittent, weak contractions. She has received medication for pain twice in the past 6\u00a0hours. Examination shows no reason for obstructed labor. The fetal head is engaged, the membranes are intact, the fetal heart tones are normal, and the cervix is 100%\u00a0effaced and 7\u00a0cm dilated. The most likely diagnosis is",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "Reasoning: This is a case of hypotonic uterine dysfunction. There are no other diagnoses that fit the clinical presentation. Braxton Hicks contractions occur during pregnancy, but not in labor (A). Lower uterine retraction ring can occur in labor, but is less common than hypotonic uterine dysfunction (B). Primary dysfunctional labor (D) would include other diagnoses such as obstructed labor or prolonged rupture of membranes. Therefore, the correct answer is C.\nAnswer: C"
+    },
+    {
+        "id": 33,
+        "subset": "professional_medicine",
+        "question": "A 5-year-old boy is brought to the physician by his mother because of a 2-day history of a low-grade fever, cough, and runny nose. His temperature is 38\u00b0C (100.4\u00b0F). Examination findings are consistent with a diagnosis of a common cold. The physician refers to a randomized, double-blind, placebo-controlled clinical trial that evaluated the effectiveness of a new drug for the treatment of the common cold. The mean time for resolution of symptoms for patients receiving the new drug was 6.4 days, compared with a mean time of 6.7 days for patients receiving the placebo (p=0.04). Which of the following is the most appropriate interpretation of these study results?",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Reasoning: A 5-year-old with a common cold was given either the new drug or a placebo. The mean time for resolution of symptoms for patients receiving the new drug was 6.4 days, compared with a mean time of 6.7 days for patients receiving the placebo (p=0.04). Therefore, the findings are statistically significant but not clinically significant.\nAnswer: A"
+    },
+    {
+        "id": 34,
+        "subset": "professional_medicine",
+        "question": "A 9-year-old boy is brought to the office by his parents for a well-child examination. The patient and his family immigrated to the United States 2 months ago and he has not been evaluated by a physician in 4 years. He has been generally healthy. Medical history is significant for pneumonia at age 3 years. He takes no medications. He is at the 25th percentile for height, weight, and BMI. Vital signs are temperature 37.0\u00b0C (98.6\u00b0F), pulse 82/min, respirations 20/min, and blood pressure 112/74 mm Hg. Cardiac examination discloses a grade 3/6 systolic murmur audible along the left sternal border at the third and fourth intercostal spaces. Femoral pulses are weak and brachial pulses are strong; there is a radiofemoral delay. Chest xray discloses mild cardiomegaly with left ventricular prominence. ECG shows left ventricular hypertrophy. This patient is at greatest risk for which of the following complications?",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "Reasoning: Patients with left ventricular hypertrophy (LVH) are at risk for systemic arterial hypertension, tricuspid valve regurgitation, and cor pulmonale. Atrial fibrillation is an alternate diagnosis that may be present in LVH but is not the most likely complication given its low prevalence in this population.\nAnswer: C"
+    },
+    {
+        "id": 35,
+        "subset": "professional_medicine",
+        "question": "A 25-year-old woman comes to the physician because of a 2-month history of numbness in her right hand. During this period, she has had tingling in the right ring and small fingers most of the time. She has no history of serious illness and takes no medications. She is employed as a cashier and uses a computer at home. She played as a pitcher in a softball league for 5 years until she stopped 2 years ago. Vital signs are within normal limits. Examination shows full muscle strength. Palpation of the right elbow produces a jolt of severe pain in the right ring and small fingers. Sensation to pinprick and light touch is decreased over the medial half of the right ring finger and the entire small finger. The most likely cause of these findings is entrapment of which of the following on the right?",
+        "truth": "D",
+        "pred": "C",
+        "reasoning": "Reasoning: The sensory distribution of the median nerve is on the volar aspect of the distal forearm. Entrapment occurs at the elbow (C). The radial and ulnar nerves are the major sources of motor innervation in the upper extremity. The median nerve provides most of the sensory supply to the thumb, index finger, middle finger, and half of the ring finger. Therefore, entrapment of the median nerve is the most likely cause of numbness on the volar aspect of the right hand (A). The musculocutaneous nerve provides motor innervation to the biceps brachii, coracobrachialis, and subscapularis. It also supplies sensory innervation to the medial portion of the upper arm. Entrapment of the musculocutaneous nerve at the forearm is unlikely because it does not overlap with the median nerve (B). The ulnar nerve provides motor innervation to the small finger, ring finger, and part of the middle finger. Sensory innervation is supplied to all digits except the thumb. Entrapment of the ulnar nerve at the elbow is unlikely because it does not overlap with the median nerve (D). Therefore, entrapment of the median nerve is most likely.\nAnswer: C"
+    },
+    {
+        "id": 36,
+        "subset": "professional_medicine",
+        "question": "Six healthy subjects participate in a study of muscle metabolism during which hyperglycemia and hyperinsulinemia is induced. Muscle biopsy specimens obtained from the subjects during the resting state show significantly increased concentrations of malonyl-CoA. The increased malonyl-CoA concentration most likely directly inhibits which of the following processes in these subjects?",
+        "truth": "A",
+        "pred": "B",
+        "reasoning": "Reasoning: Malonyl-CoA is a metabolite that inhibits carboxylation of fatty acids. Therefore, the increased malonyl-CoA concentration most likely directly inhibits fatty acid synthesis (B). Fatty acid oxidation (A) and glycogenolysis (D) are not affected by malonyl-CoA.\nAnswer: B"
+    },
+    {
+        "id": 37,
+        "subset": "professional_medicine",
+        "question": "A 72-year-old woman with advanced ovarian cancer metastatic to the liver is brought to the physician by her son because she cries all the time and will not get out of bed. On a 10-point scale, she rates the pain as a 1 to 2. She also has hypertension and major depressive disorder. She has received chemotherapy for 2 years. Current medications also include oxycodone (10 mg twice daily), hydrochlorothiazide (25 mg/d), and fluoxetine (20 mg/d). She is 165 cm (5 ft 5 in) tall and weighs 66 kg (145 lb); BMI is 24 kg/m2 . Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 110/min, respirations are 12/min, and blood pressure is 120/80 mm Hg. Examination shows a firm, distended abdomen with moderate tenderness over the liver. On mental status examination, she is oriented to person, place, and time. She has good eye contact but appears sad and cries easily. Which of the following is the most appropriate next step in management?",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "The patient's mental status examination indicates depression. Because she is sad, crying easily, and has a firm abdomen with moderate tenderness over the liver, her chief complaint of pain may be psychogenic in origin. The most appropriate next step in management would be to assess for suicidal ideation (B).\nAnswer: B"
+    },
+    {
+        "id": 38,
+        "subset": "professional_medicine",
+        "question": "A 65-year-old woman has a 6-month history of progressive irritability, palpitations, heat intolerance, frequent bowel movements, and a 6.8-kg (15-lb) weight loss. She has had a neck mass for more than 10 years. 131I scan shows an enlarged thyroid gland with multiple areas of increased and decreased uptake. Which of the following is the most likely diagnosis?",
+        "truth": "C",
+        "pred": "A",
+        "reasoning": "Reasoning: The patient has Graves' disease. This is a hyperthyroidism condition caused by autoantibodies against the thyrotropin receptor (TSHR). It causes an increase in thyroid hormone synthesis and release, leading to hypermetabolic symptoms. A defect in T4 biosynthesis would cause hypothyroidism with low serum T4 levels (B). Multinodular goiter is a benign condition caused by abnormal growth of the thyroid gland. It would not cause hyperthyroidism or increased uptake on 131I scan (C). Riedel's thyroiditis is an inflammatory condition that causes fibrosis and stiffening of the thyroid gland. It would not cause hyperthyroidism (D).\nAnswer: A"
+    },
+    {
+        "id": 39,
+        "subset": "professional_medicine",
+        "question": "A 51-year-old man comes to the office because of a 6-month history of a lump on his tongue that is interfering with his speech and eating; he also has had a 6.8-kg (15-lb) weight loss during this period. He has smoked 1 pack of cigarettes daily and has consumed six 12-oz bottles of beer on weekend nights during the past 30 years. His vital signs are within normal limits. Physical examination shows a 1.5-cm mass on the apex of the tongue. Further evaluation of the mass confirms squamous cell carcinoma. It is most appropriate to evaluate which of the following lymph nodes first for evidence of metastasis in this patient?",
+        "truth": "D",
+        "pred": "A",
+        "reasoning": "Reasoning: The tumor is in the oral cavity, and so it must be a squamous cell carcinoma. Oral cancers spread to the lymph nodes of the neck in the following order (A, B, C, D).\nAnswer: A"
+    },
+    {
+        "id": 40,
+        "subset": "professional_medicine",
+        "question": "A 42-year-old man comes to the physician for a follow-up examination 1 week after he passed a renal calculus. X-ray crystallographic analysis of the calculus showed calcium as the primary cation. Physical examination today shows no abnormalities. A 24-hour collection of urine shows increased calcium excretion. Which of the following is the most appropriate pharmacotherapy?",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Reasoning: The stone is composed primarily of calcium oxalate. Oxalate stones are caused by hypercalciuria (A). This leads to a high concentration of Ca2+ in the urine, which promotes crystal formation and growth. Sodium-potassium-chloride symport inhibitors, such as bumetanide (B), promote water excretion. Therefore, these drugs are used to dissolve stones. Osmotic diuretics, such as mannitol (D), lead to increased diuresis and dehydration. This can result in an increase in the concentration of calcium oxalate in the urine, which promotes stone formation and growth. Therefore, this drug is not appropriate for dissolving stones.\nAnswer: A"
+    },
+    {
+        "id": 41,
+        "subset": "college_biology",
+        "question": "Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to",
+        "truth": "C",
+        "pred": "A",
+        "reasoning": "Reasoning: The midpoint of a logistic curve is a point where there is no net population growth. This would suggest that the best way to control the mosquito population is to maintain it at a constant level (A). Once the K value has been reached, the carrying capacity cif the environment remains unchanged, which suggests that zero population control is the most effective means of controlling the mosquito population (B). If the environment were changed, the K value would decrease, and therefore more mortality would be required to maintain a constant population size. Increasing the mortality rate does not directly control the mosquito population (D).\nAnswer: A"
+    },
+    {
+        "id": 42,
+        "subset": "college_biology",
+        "question": "A frameshift mutation is created when",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "A frameshift mutation is created when a codon's nucleotide sequence changes so that it calls for production of a different amino acid than the original one. This occurs because the genetic code uses three-base codons to specify each amino acid, and if the third base differs from the usual one, a frameshift mutation is created (A). Removal of telomeric sequences from DNA does not create a frameshift mutation (B). A base pair is either inserted or deleted in a gene to create a frameshift mutation (C). Termination of translation occurs when a codon's nucleotide sequence is changed so that instead of coding for a given amino acid, it acts to terminate translation (D).\nAnswer: C"
+    },
+    {
+        "id": 43,
+        "subset": "college_biology",
+        "question": "To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the",
+        "truth": "A",
+        "pred": "C",
+        "reasoning": "Reasoning: The amnion is a membrane that surrounds the embryo and yolk sac. The chorion is a membrane that surrounds the eggshell. Therefore, A and C are incorrect choices. Yolk sacs are found in fishes, reptiles, birds, and monotremes, but not amniotes (A). The allantois is a membrane that surrounds the embryo and yolk sac. It is only present in amniotes (B). Therefore, A and B are incorrect choices.\nAnswer: C"
+    },
+    {
+        "id": 44,
+        "subset": "college_biology",
+        "question": "Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm?",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "Reasoning: Inositol triphosphate (IP3) stimulates calcium release from the sarcoplasmic reticulum. Prostaglandins do not have this effect (A). Cyclic AMP and calmodulin are second messengers that regulate gene expression, but they do not affect intracellular calcium concentrations directly (C, D). Therefore, IP3 is the correct answer.\nAnswer: B"
+    },
+    {
+        "id": 45,
+        "subset": "college_biology",
+        "question": "Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires",
+        "truth": "A",
+        "pred": "A",
+        "reasoning": "Reasoning: To synthesize an RNA/DNA hybrid from a single-stranded RNA template, you need RNase (A), reverse transcriptase (B), and DNA polymerase (C). Therefore, the correct answer is option C.\nAnswer: A"
+    },
+    {
+        "id": 46,
+        "subset": "college_biology",
+        "question": "In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditions must be met EXCEPT:",
+        "truth": "A",
+        "pred": "B",
+        "reasoning": "Reasoning: The Hardy-Weinberg law describes the balance of alleles in a population. A population must be in equilibrium for the Hardy-Weinberg law to operate. Allele frequencies are expected to remain stable over time because selection pressure is not strong enough to change them. Thus, natural selection does not take place (B). Genes are exchanged with other populations (A). Population size is large (D). Matings are random (C). Therefore, the exception is B."
+    },
+    {
+        "id": 47,
+        "subset": "college_biology",
+        "question": "The Barr body found within female mammalian cells' nuclei is an example of",
+        "truth": "B",
+        "pred": "B",
+        "reasoning": "The Barr body is an example of heterochromatin. Euchromatin (A) is open chromatin, which allows for transcription and replication. Heterochromatin (B) is condensed chromatin that prevents gene expression. Cistrons (C) are the units that make up a gene. Pseudogenes (D) are copies of functional genes. Therefore, the correct answer is B."
+    },
+    {
+        "id": 48,
+        "subset": "college_biology",
+        "question": "Which of the following is NOT a source of atmospheric carbon?",
+        "truth": "B",
+        "pred": "A",
+        "reasoning": "Respiration, photosynthesis and bacterial decomposition are sources of atmospheric carbon. Combustion of fossil fuels is not a source of atmospheric carbon. Therefore, the answer is (A) respiration."
+    },
+    {
+        "id": 49,
+        "subset": "college_biology",
+        "question": "The concept of punctuated equilibrium refers to",
+        "truth": "D",
+        "pred": "B",
+        "reasoning": "Reasoning: The concept of punctuated equilibrium refers to ecological succession arrested by sudden environmental changes, e.g., fire (B). Ecological succession follows a consistent pattern whereby one community replaces another following an orderly process. Evolutionary theory describes the same pattern in which species evolve and then remain relatively unchanged for long periods of time. This is punctuated equilibrium.\nAnswer: B"
+    },
+    {
+        "id": 50,
+        "subset": "college_biology",
+        "question": "When an influenza virus enters a cell, it immediately starts to do which of the following?",
+        "truth": "C",
+        "pred": "C",
+        "reasoning": "Reasoning: Influenza is an enveloped virus with a negative sense, single stranded RNA genome. Upon entry into the host cell, it immediately starts to replicate its genetic material and synthesize viral proteins (C). Therefore, the answer is C.\nAnswer: C"
+    }
+]

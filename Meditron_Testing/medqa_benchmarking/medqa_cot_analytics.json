@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "A junior orthopaedic surgery resident is completing a carpal tunnel repair with the department chairman as the attending physician. During the case, the resident inadvertently cuts a flexor tendon. The tendon is repaired without complication. The attending tells the resident that the patient will do fine, and there is no need to report this minor complication that will not harm the patient, as he does not want to make the patient worry unnecessarily. He tells the resident to leave this complication out of the operative report. Which of the following is the correct next action for the resident to take?",
+        "truth": "B",
+        "pred": "A",
+        "correct": false,
+        "latency_seconds": 24.3000590801239,
+        "tokens_per_second": 12.233631829949497,
+        "full_response": "Reasoning: The resident is new and has not been educated on how to handle complications. This is a common learning opportunity, so the correct next step for him to take is disclosing this mistake to the patient. If he did not disclose it, then he would be lying to his patient. He can't report the attending, because this is a minor complication that will not harm the patient. Also, reporting the physician to the ethics committee is not necessary here; the resident should instead discuss with the attending and see if they can come to an agreement on how to handle it.\nAnswer: A"
+    },
+    {
+        "id": 2,
+        "question": "A 67-year-old man with transitional cell carcinoma of the bladder comes to the physician because of a 2-day history of ringing sensation in his ear. He received this first course of neoadjuvant chemotherapy 1 week ago. Pure tone audiometry shows a sensorineural hearing loss of 45 dB. The expected beneficial effect of the drug that caused this patient's symptoms is most likely due to which of the following actions?",
+        "truth": "D",
+        "pred": "C",
+        "correct": false,
+        "latency_seconds": 9.951756000518799,
+        "tokens_per_second": 12.236177865901567,
+        "full_response": "Reasoning: Cisplatin is an alkylating agent that is used to treat bladder cancer. The expected beneficial effect of the drug that caused this patient's symptoms is most likely due to cross-linking of DNA, which leads to cell death in rapidly dividing cells such as lymphocytes and hair follicles.\nAnswer: C"
+    },
+    {
+        "id": 3,
+        "question": "Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pectoris, a 61-year-old man has decreased urinary output and malaise. He has type 2 diabetes mellitus and osteoarthritis of the hips. Prior to admission, his medications were insulin and naproxen. He was also started on aspirin, clopidogrel, and metoprolol after the coronary intervention. His temperature is 38\u00b0C (100.4\u00b0F), pulse is 93/min, and blood pressure is 125/85 mm Hg. Examination shows mottled, reticulated purplish discoloration of the feet. Laboratory studies show:\nHemoglobin count 14 g/dL\nLeukocyte count 16,400/mm3\nSegmented neutrophils 56%\nEosinophils 11%\nLymphocytes 31%\nMonocytes 2%\nPlatelet count 260,000/mm3\nErythrocyte sedimentation rate 68 mm/h\nSerum\nUrea nitrogen 25 mg/dL\nCreatinine 4.2 mg/dL\nRenal biopsy shows intravascular spindle-shaped vacuoles. Which of the following is the most likely cause of this patient's symptoms?\"",
+        "truth": "B",
+        "pred": "D",
+        "correct": false,
+        "latency_seconds": 15.944268941879272,
+        "tokens_per_second": 12.946727251243827,
+        "full_response": "Reasoning: The patient has a decreased urinary output, malaise, and purplish discoloration of the feet. Cholesterol embolization is caused by cholesterol crystals that are released into the bloodstream from an atherosclerotic plaque, which can cause renal papillary necrosis or eosinophilic granulomatosis with polyangiitis. Polyarteritis nodosa is typically associated with systemic vasculitis and can cause renal papillary necrosis.\nAnswer: D"
+    },
+    {
+        "id": 4,
+        "question": "A 39-year-old woman is brought to the emergency department because of fevers, chills, and left lower quadrant pain. Her temperature is 39.1\u00b0C (102.3\u00b0F), pulse is 126/min, respirations are 28/min, and blood pressure is 80/50 mm Hg. There is blood oozing around the site of a peripheral intravenous line. Pelvic examination shows mucopurulent discharge from the cervical os and left adnexal tenderness. Laboratory studies show:\nPlatelet count 14,200/mm3\nFibrinogen 83 mg/mL (N = 200\u2013430 mg/dL)\nD-dimer 965 ng/mL (N < 500 ng/mL)\nWhen phenol is applied to a sample of the patient's blood at 90\u00b0C, a phosphorylated N-acetylglucosamine dimer with 6 fatty acids attached to a polysaccharide side chain is identified. A blood culture is most likely to show which of the following?\"",
+        "truth": "D",
+        "pred": "A",
+        "correct": false,
+        "latency_seconds": 27.757519006729126,
+        "tokens_per_second": 12.594187680950972,
+        "full_response": "Reasoning: The patient's symptoms of fever, chills, and left lower quadrant pain are consistent with an infection. A peripheral IV line can lead to phlebitis, which is a superficial thrombophlebitis of a vein that occurs outside the vascular system. The pelvic examination finding of mucopurulent discharge from the cervical os and left adnexal tenderness are consistent with an infection in the patient's reproductive organs (uterus, ovaries). Laboratory studies showing a platelet count < 140,000/mm3 with fibrinogen < 200 mg/dL and D-dimer > 500 ng/mL are consistent with disseminated intravascular coagulation (DIC).\nBlood culture would be most likely to show gram-positive cocci that form maue-colored colonies on methicillincontaining agar. This is consistent with S. aureus, the organism most commonly associated with DIC.\nAnswer: A"
+    },
+    {
+        "id": 5,
+        "question": "A 35-year-old man comes to the physician because of itchy, watery eyes for the past week. He has also been sneezing multiple times a day during this period. He had a similar episode 1 year ago around springtime. He has iron deficiency anemia and ankylosing spondylitis. Current medications include ferrous sulfate, artificial tear drops, and indomethacin. He works as an elementary school teacher. His vital signs are within normal limits. Visual acuity is 20/20 without correction. Physical examination shows bilateral conjunctival injection with watery discharge. The pupils are 3 mm, equal, and reactive to light. Examination of the anterior chamber of the eye is unremarkable. Which of the following is the most appropriate treatment?",
+        "truth": "B",
+        "pred": "D",
+        "correct": false,
+        "latency_seconds": 20.9482262134552,
+        "tokens_per_second": 10.32211724782936,
+        "full_response": "Reasoning: The patient has allergic conjunctivitis, which is a common cause of itchy watery eyes. The symptoms are seasonal and worsen in the springtime. Allergy testing is not necessary to make this diagnosis. Erythromycin ointment is used to treat bacterial conjunctivitis. Ketotifen eye drops are used for allergic conjunctivitis, but it would be a long shot as they take 2 weeks or more to work. Warm compresses are not helpful in treating allergies. Fluorometholone is the most potent steroid available and is used to treat inflammation caused by allergic conjunctivitis.\nAnswer: D"
+    }
+]
